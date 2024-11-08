@@ -184,8 +184,6 @@ df.head()
 
 st.dataframe(df)
 
-st.set_option('deprecation.showPyplotGlobalUse', False)
-
 X_interactions = df_final.drop(columns=['Gender','Education Level',
        'Marital Status', 'Relationship Status','Diagnosis', 'Grade'])
 y_diag = df_final['Diagnosis']
