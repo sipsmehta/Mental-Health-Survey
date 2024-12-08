@@ -1,0 +1,1501 @@
+Age,Gender,Education Level,Marital Status,Relationship Status,Feeling restless or on edge,Excessive worry about various things,Difficulty controlling worry,Feeling easily fatigued,Irritability,Muscle tension,"Sleep disturbances (e.g., difficulty falling or staying asleep, restless sleep)",Difficulty concentrating or mind going blank,"Feeling down, depressed, or hopeless",Little interest or pleasure in doing things,Significant weight loss or gain or change in appetite,"Trouble falling asleep, staying asleep, or sleeping too much",Feeling tired or having low energy,Difficulty concentrating or making decisions,Thoughts of death or suicide,Feeling overwhelmed or unable to cope with daily tasks,Feeling tense or unable to relax,Frequent headaches or body aches,Changes in appetite (eating more or less than usual),Difficulty concentrating due to stress,"Sleep disturbances due to stress (e.g., difficulty falling asleep, waking up frequently)",Avoiding activities or situations due to stress,Ability to work or attend school,"Interpersonal relationships (e.g., family, friends)","Self-care (e.g., grooming, eating habits)",Overall quality of life,"Have you ever been diagnosed with an anxiety disorder, depression, or stress-related condition?",Have you sought professional help for your mental health concerns?,Have you experienced any significant life events or stressors recently?,Have you experienced any traumatic events in the past?,Do you have a history of mental health conditions in your family?,Diagnosis
+25,Male,Graduate,Widowed,In Relation,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,4,4,4,4,1,1,1,1,1,Normal
+21,Female,High School,Single,Not in any Relation,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,4,4,4,4,0,1,0,1,0,Anxiety
+21,Female,High School,Single,Broke Up,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,4,4,4,4,1,1,1,1,1,Normal
+31,Female,College,Widowed,In Relation,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,1,1,1,1,1,1,1,1,1,Depression
+31,Male,Post-Graduate,Live in,Broke Up,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,1,1,1,1,1,1,1,1,1,Normal
+20,Female,High School,Single,Not in any Relation,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,4,4,4,4,1,0,1,0,1,Anxiety and Depression
+24,Female,Post-Graduate,Live in,Not in any Relation,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,4,4,4,4,1,1,1,1,0,Normal
+44,Female,Graduate,Divorced,In Relation,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,3,3,3,1,1,0,1,0,Anxiety
+33,Male,Graduate,Married,Broke Up,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,4,4,4,4,1,0,1,1,1,Normal
+45,Female,Graduate,Live in,Not in any Relation,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,4,4,4,4,1,0,1,0,1,Anxiety
+24,Female,Post-Graduate,Widowed,Broke Up,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,4,4,4,4,1,0,1,0,1,Anxiety
+48,Male,Graduate,Live in,Broke Up,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,3,3,3,3,0,1,0,1,0,Anxiety
+36,Male,Post-Graduate,Single,Not in any Relation,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,2,2,2,2,0,1,1,1,1,Stress
+15,Female,Post-Graduate,Live in,Not in any Relation,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,4,4,4,4,1,1,0,1,0,Anxiety
+15,Female,Graduate,Live in,In Relation,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,4,4,4,4,0,1,1,1,1,Normal
+37,Female,High School,Single,Not in any Relation,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,1,1,1,1,0,1,1,1,1,Depression and Stress
+38,Female,College,Divorced,In Relation,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,1,1,1,1,1,1,1,1,1,Anxiety and Depression
+30,Male,Post-Graduate,Widowed,Not in any Relation,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,1,1,1,1,1,1,1,1,1,Stress
+20,Female,Post-Graduate,Divorced,In Relation,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,4,4,4,4,1,0,1,0,1,Anxiety
+24,Female,College,Live in,Not in any Relation,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,3,3,3,0,1,0,1,0,Anxiety
+46,Female,Post-Graduate,Single,In Relation,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,0,0,0,1,0,1,0,1,Anxiety and Depression
+41,Male,College,Married,Broke Up,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,1,1,1,1,1,1,1,1,Stress
+25,Female,College,Widowed,Broke Up,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,4,4,4,4,1,0,1,1,1,Depression and Stress
+36,Female,College,Divorced,In Relation,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,4,4,4,4,0,1,0,1,0,Anxiety
+50,Female,High School,Married,In Relation,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,1,1,1,1,0,1,1,1,1,Stress
+30,Female,College,Single,Not in any Relation,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,4,4,4,4,0,1,1,1,1,Normal
+32,Female,High School,Divorced,In Relation,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,4,4,4,4,1,0,1,0,1,Anxiety
+45,Female,College,Live in,In Relation,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,4,4,4,4,1,1,1,0,1,Normal
+36,Male,Graduate,Single,Broke Up,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,3,3,3,0,1,0,1,0,Anxiety
+32,Male,Graduate,Married,In Relation,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,0,0,0,1,0,1,0,1,Anxiety and Stress
+43,Female,High School,Married,Not in any Relation,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,4,4,4,4,1,0,1,0,1,Anxiety and Stress
+39,Female,Graduate,Widowed,Broke Up,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,1,1,1,1,0,1,1,1,1,Normal
+15,Male,College,Live in,Broke Up,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,4,4,4,4,1,0,1,0,1,Anxiety and Stress
+44,Male,Post-Graduate,Divorced,Not in any Relation,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,4,4,4,4,0,1,1,0,1,Anxiety
+48,Female,Graduate,Single,Broke Up,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,2,2,2,2,1,1,1,0,1,Stress
+42,Male,Post-Graduate,Live in,Broke Up,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,2,2,2,2,1,1,1,1,0,Depression
+47,Male,College,Live in,Broke Up,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,1,1,1,1,1,1,1,1,1,Stress
+17,Female,Post-Graduate,Live in,Broke Up,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,2,2,2,2,1,1,1,1,0,Depression
+27,Male,Graduate,Married,Broke Up,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,0,0,0,0,1,0,1,0,1,Anxiety
+17,Male,Graduate,Single,In Relation,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,2,2,2,2,1,1,1,1,1,Normal
+39,Female,Graduate,Divorced,Broke Up,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,1,1,1,1,1,1,1,1,1,Depression
+48,Female,Graduate,Widowed,Broke Up,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,1,1,1,1,1,1,1,1,1,Stress
+20,Male,Post-Graduate,Widowed,In Relation,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,4,4,4,4,1,1,1,1,1,Depression
+35,Female,Post-Graduate,Single,Not in any Relation,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,1,1,1,1,1,1,1,1,1,Normal
+42,Female,Graduate,Widowed,Not in any Relation,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,0,0,0,0,1,0,1,1,0,Anxiety
+15,Male,Graduate,Married,Broke Up,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,4,4,4,4,1,0,1,0,1,Anxiety and Stress
+39,Male,High School,Divorced,In Relation,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,4,4,4,4,1,1,1,1,1,Normal
+29,Male,Post-Graduate,Married,In Relation,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,2,2,2,2,1,1,1,0,1,Stress
+39,Male,College,Live in,In Relation,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,1,1,1,1,1,1,1,1,1,Normal
+43,Female,Post-Graduate,Widowed,In Relation,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,2,2,2,2,1,1,1,1,0,Stress
+37,Female,Graduate,Divorced,Not in any Relation,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,1,1,1,1,1,1,1,1,Depression
+49,Female,High School,Live in,Not in any Relation,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,3,3,3,1,1,0,1,0,Anxiety
+33,Female,College,Married,Broke Up,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,2,2,2,2,1,1,1,1,1,Normal
+20,Female,High School,Widowed,In Relation,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,0,0,0,0,1,1,0,1,0,Anxiety
+41,Female,High School,Widowed,Broke Up,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,4,4,4,4,1,0,1,1,0,Anxiety
+41,Female,High School,Widowed,Broke Up,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,0,0,0,1,0,1,0,1,Anxiety and Stress
+48,Male,High School,Divorced,Broke Up,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,1,1,1,1,1,1,0,1,1,Normal
+49,Male,High School,Single,Not in any Relation,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,4,4,4,4,0,1,1,0,1,Anxiety
+23,Female,College,Single,Broke Up,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,0,0,0,0,0,1,0,1,1,Anxiety
+32,Female,Graduate,Widowed,Not in any Relation,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,4,4,4,4,0,1,0,1,1,Anxiety
+50,Female,Post-Graduate,Live in,Broke Up,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,1,1,1,1,0,1,1,1,Normal
+50,Male,Graduate,Divorced,Not in any Relation,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,2,2,2,2,1,1,1,1,1,Normal
+49,Male,Graduate,Widowed,Broke Up,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,1,1,1,1,1,1,0,1,Normal
+26,Female,Graduate,Live in,In Relation,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,0,0,0,0,1,0,1,1,0,Anxiety
+16,Male,Graduate,Single,Broke Up,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,1,1,1,1,1,1,0,1,1,Normal
+32,Male,High School,Live in,Not in any Relation,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,1,1,1,1,1,1,0,1,1,Normal
+19,Male,High School,Married,In Relation,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,3,3,3,1,0,1,1,0,Anxiety
+20,Female,Graduate,Married,In Relation,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,1,1,1,1,0,1,1,1,Normal
+29,Male,Graduate,Married,Not in any Relation,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,4,4,4,4,1,0,1,1,0,Anxiety
+29,Male,College,Single,Broke Up,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,3,3,3,3,1,0,1,0,1,Anxiety and Depression
+38,Female,Post-Graduate,Live in,Broke Up,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,2,2,2,2,1,1,1,1,1,Normal
+18,Female,Post-Graduate,Widowed,Broke Up,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,3,3,3,3,0,1,0,1,0,Anxiety
+42,Male,High School,Divorced,Broke Up,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,2,2,2,2,1,1,1,1,1,Anxiety and Depression
+48,Male,Graduate,Married,Broke Up,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,4,4,4,4,1,0,1,0,1,Anxiety and Depression
+22,Female,Post-Graduate,Married,Not in any Relation,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,1,1,1,1,1,1,1,1,1,Normal
+50,Male,Post-Graduate,Married,Not in any Relation,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,4,4,4,4,0,1,0,1,1,Anxiety
+38,Male,Post-Graduate,Married,Not in any Relation,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,1,1,1,1,1,1,0,1,Normal
+37,Male,College,Live in,In Relation,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,1,1,1,1,1,1,1,1,1,Normal
+46,Male,College,Live in,In Relation,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,1,1,1,1,1,1,1,1,Normal
+32,Male,College,Single,Broke Up,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,4,4,4,4,1,0,1,0,1,Anxiety and Depression
+31,Female,High School,Live in,Not in any Relation,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,1,1,1,1,1,1,0,1,Normal
+35,Female,College,Single,In Relation,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,4,4,4,4,1,1,1,1,0,Stress
+47,Male,Post-Graduate,Married,Not in any Relation,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,1,1,1,1,1,1,1,1,Stress
+20,Female,Graduate,Widowed,In Relation,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,1,1,1,1,1,1,1,1,0,Normal
+21,Male,Post-Graduate,Divorced,In Relation,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,4,4,4,4,1,0,1,0,1,Anxiety and Stress
+17,Male,Graduate,Widowed,Not in any Relation,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,4,4,4,4,1,1,1,0,1,Normal
+38,Female,College,Live in,Broke Up,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,2,2,2,2,1,1,1,1,1,Normal
+24,Male,College,Single,Broke Up,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,1,1,1,1,1,1,1,1,Normal
+20,Male,High School,Live in,Broke Up,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,4,4,4,4,1,1,1,0,1,Normal
+47,Male,Post-Graduate,Married,In Relation,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,1,1,1,1,0,1,1,1,1,Stress
+20,Female,Graduate,Married,In Relation,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,1,1,1,1,1,1,1,1,0,Stress
+33,Female,Graduate,Divorced,Not in any Relation,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,3,3,3,3,1,0,1,0,1,Anxiety and Stress
+27,Male,High School,Widowed,Not in any Relation,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,4,4,4,4,1,1,1,1,0,Normal
+17,Female,Post-Graduate,Married,Broke Up,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,1,1,1,1,1,1,1,1,1,Depression and Stress
+20,Male,Graduate,Live in,Broke Up,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,1,1,1,1,1,1,1,1,1,Anxiety
+46,Male,Post-Graduate,Live in,Not in any Relation,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,3,3,3,3,0,1,1,0,1,Anxiety
+24,Male,Post-Graduate,Divorced,Broke Up,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,3,3,3,3,0,1,1,0,1,Anxiety
+26,Male,Graduate,Live in,In Relation,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,4,4,4,4,1,0,1,0,1,Anxiety and Stress
+36,Male,High School,Live in,Not in any Relation,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,4,4,4,4,1,1,1,1,0,Stress
+17,Male,College,Live in,Broke Up,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,1,1,1,1,1,1,1,1,Depression and Stress
+16,Male,Post-Graduate,Widowed,Not in any Relation,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,1,1,1,1,1,1,0,1,1,Stress
+37,Male,College,Live in,Broke Up,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,4,4,4,4,1,1,1,1,0,Normal
+25,Male,High School,Married,Not in any Relation,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,2,2,2,2,1,1,1,1,1,Normal
+15,Male,College,Married,In Relation,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,1,1,1,1,1,1,1,1,1,Normal
+35,Male,College,Single,In Relation,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,1,1,1,1,0,1,1,1,1,Normal
+32,Female,College,Single,Not in any Relation,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,4,4,4,4,0,1,0,1,1,Anxiety
+17,Female,High School,Divorced,Not in any Relation,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,2,2,2,2,1,1,1,1,0,Normal
+26,Female,Post-Graduate,Divorced,Not in any Relation,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,1,1,1,1,1,1,1,1,1,Normal
+44,Male,College,Single,Broke Up,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,3,3,3,3,0,1,1,0,1,Anxiety
+48,Male,College,Single,Not in any Relation,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,4,4,4,4,0,1,1,0,1,Anxiety
+49,Female,College,Widowed,Not in any Relation,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,0,0,0,0,1,1,0,1,0,Anxiety
+16,Male,Post-Graduate,Single,Broke Up,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,4,4,4,4,1,0,1,1,0,Anxiety
+42,Female,Post-Graduate,Live in,In Relation,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,1,1,1,1,0,1,1,1,1,Normal
+48,Male,High School,Single,Broke Up,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,0,0,0,0,0,1,0,1,0,Anxiety
+22,Female,College,Live in,Not in any Relation,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,2,2,2,2,1,0,1,1,1,Normal
+42,Female,College,Live in,Not in any Relation,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,1,1,1,1,0,1,1,1,Depression
+25,Male,Graduate,Widowed,Broke Up,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,2,2,2,2,1,1,1,1,1,Normal
+30,Male,High School,Widowed,Broke Up,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,0,0,0,0,1,1,0,1,Anxiety
+27,Female,High School,Divorced,Broke Up,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,4,4,4,4,0,1,1,0,1,Anxiety
+40,Female,Graduate,Married,Broke Up,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,1,1,1,1,1,1,1,1,1,Depression
+28,Female,Post-Graduate,Single,Not in any Relation,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,4,4,4,4,1,1,0,1,0,Anxiety
+36,Female,Post-Graduate,Live in,In Relation,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,1,1,1,1,1,1,1,1,0,Normal
+30,Female,High School,Married,Not in any Relation,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,4,4,4,4,1,0,1,1,0,Anxiety
+16,Male,Graduate,Divorced,Not in any Relation,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,1,1,1,1,0,1,1,1,Normal
+50,Female,College,Live in,In Relation,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,4,4,4,4,0,1,0,1,0,Anxiety
+25,Male,College,Married,In Relation,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,4,4,4,4,0,1,1,1,1,Normal
+23,Male,Post-Graduate,Divorced,Broke Up,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,3,3,3,3,0,1,1,0,1,Anxiety
+22,Female,Post-Graduate,Divorced,Not in any Relation,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,2,2,2,2,1,0,1,1,1,Normal
+38,Male,College,Married,In Relation,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,2,2,2,2,1,1,1,1,1,Depression
+32,Male,College,Single,Broke Up,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,0,0,0,1,0,1,0,1,Anxiety and Stress
+19,Male,Post-Graduate,Widowed,Not in any Relation,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,4,4,4,4,1,0,1,0,1,Anxiety and Depression
+19,Male,Post-Graduate,Single,Not in any Relation,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,2,2,2,2,1,1,1,1,1,Normal
+26,Male,High School,Divorced,In Relation,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,4,4,4,4,1,1,1,1,1,Normal
+23,Male,Post-Graduate,Divorced,Broke Up,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,1,1,1,1,1,1,1,1,Normal
+34,Male,Graduate,Married,In Relation,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,4,4,4,4,1,0,1,0,1,Anxiety and Depression
+50,Female,High School,Live in,In Relation,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,0,0,0,0,0,1,0,1,0,Anxiety
+18,Female,Graduate,Single,Broke Up,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,4,4,4,4,1,1,1,1,1,Stress
+46,Male,Graduate,Single,Broke Up,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,4,4,4,4,1,1,1,1,1,Normal
+45,Female,College,Divorced,Not in any Relation,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,3,3,3,1,0,1,1,0,Anxiety
+21,Female,Post-Graduate,Divorced,Broke Up,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,2,2,2,2,1,1,1,1,1,Normal
+33,Male,High School,Live in,In Relation,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,4,4,4,4,1,0,1,0,1,Anxiety and Depression
+32,Male,Post-Graduate,Married,Not in any Relation,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,4,4,4,4,1,1,0,1,1,Normal
+22,Male,High School,Widowed,Broke Up,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,0,0,0,1,0,1,0,1,Anxiety and Stress
+42,Female,College,Married,In Relation,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,2,2,2,2,1,1,1,1,1,Normal
+37,Female,College,Live in,In Relation,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,1,1,1,1,1,1,0,1,1,Depression
+43,Female,Post-Graduate,Divorced,Broke Up,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,0,0,0,0,1,0,1,0,1,Anxiety
+42,Female,College,Live in,Not in any Relation,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,0,0,0,0,0,1,0,1,0,Anxiety
+21,Female,Post-Graduate,Divorced,Not in any Relation,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,3,3,3,3,1,0,1,0,1,Anxiety
+16,Male,Graduate,Live in,Broke Up,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,1,1,1,1,1,1,1,1,Normal
+33,Male,High School,Divorced,In Relation,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,1,1,1,1,0,1,1,1,Normal
+23,Female,Graduate,Married,Not in any Relation,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,2,2,2,2,0,1,1,1,1,Depression
+42,Male,Post-Graduate,Single,Broke Up,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,2,2,2,2,1,0,1,1,1,Normal
+20,Male,Graduate,Widowed,Not in any Relation,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,1,1,1,1,1,1,1,1,1,Normal
+29,Male,College,Divorced,Broke Up,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,0,0,0,0,1,1,0,1,Anxiety
+30,Male,Post-Graduate,Live in,Broke Up,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,3,3,3,3,0,1,1,0,1,Anxiety
+32,Female,Post-Graduate,Married,Not in any Relation,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,1,4,4,4,1,0,1,0,1,Anxiety and Depression
+26,Female,Post-Graduate,Single,Not in any Relation,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,0,0,0,0,0,1,0,1,1,Anxiety
+44,Female,Post-Graduate,Divorced,Not in any Relation,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,1,1,1,1,1,1,1,1,1,Normal
+36,Male,Graduate,Live in,Broke Up,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,4,4,4,4,1,0,1,1,0,Anxiety
+29,Male,Graduate,Single,Not in any Relation,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,4,4,4,4,1,0,1,0,1,Anxiety and Stress
+48,Male,College,Single,In Relation,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,4,4,4,4,1,0,1,0,1,Anxiety
+43,Female,High School,Widowed,In Relation,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,1,1,1,1,1,1,1,1,1,Depression
+37,Male,High School,Live in,Not in any Relation,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,1,1,1,1,1,1,1,1,0,Stress
+38,Female,Post-Graduate,Widowed,In Relation,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,4,4,4,4,0,1,0,1,0,Anxiety
+40,Female,Graduate,Married,Broke Up,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,1,1,1,1,1,1,1,1,Depression
+43,Male,College,Married,Not in any Relation,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,1,1,1,1,1,1,0,1,Normal
+25,Male,Graduate,Widowed,Not in any Relation,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,3,3,3,3,1,0,1,0,1,Anxiety and Depression
+36,Male,Post-Graduate,Single,In Relation,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,0,0,0,0,1,1,0,1,Anxiety
+35,Female,Graduate,Live in,Not in any Relation,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,4,4,4,4,1,1,0,1,0,Anxiety
+23,Male,Graduate,Live in,In Relation,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,4,4,4,4,1,1,1,1,0,Normal
+36,Female,Graduate,Widowed,In Relation,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,4,4,4,4,1,0,1,0,1,Anxiety
+34,Male,High School,Live in,In Relation,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,1,1,1,1,1,1,1,1,Normal
+43,Male,College,Single,Not in any Relation,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,4,4,4,4,0,1,0,1,1,Anxiety
+34,Male,Post-Graduate,Live in,Not in any Relation,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,1,1,1,1,0,1,1,1,1,Normal
+15,Male,Post-Graduate,Married,Not in any Relation,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,4,4,4,4,0,1,0,1,0,Anxiety
+41,Female,College,Divorced,In Relation,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,1,1,1,1,1,1,1,1,0,Depression
+44,Male,College,Divorced,Broke Up,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,4,4,4,4,0,1,1,0,1,Anxiety
+28,Male,College,Single,In Relation,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,4,4,4,4,0,1,0,1,0,Anxiety
+18,Male,High School,Widowed,In Relation,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,1,1,1,1,1,1,0,1,Normal
+33,Female,Graduate,Divorced,In Relation,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,4,4,4,4,1,1,1,1,0,Normal
+48,Male,Graduate,Single,Broke Up,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,4,4,4,4,1,0,1,0,1,Anxiety
+30,Male,Graduate,Divorced,Broke Up,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,0,0,0,0,1,1,0,1,Anxiety
+44,Male,High School,Married,Broke Up,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,4,4,4,4,0,1,1,1,1,Normal
+21,Male,Post-Graduate,Divorced,Broke Up,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,3,3,3,1,0,1,1,0,Anxiety
+15,Female,Graduate,Single,Broke Up,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,3,3,3,3,0,1,0,1,1,Anxiety
+44,Female,College,Single,In Relation,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,4,4,4,4,0,1,1,0,1,Anxiety
+22,Male,Post-Graduate,Married,Not in any Relation,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,3,3,3,3,0,1,0,1,0,Anxiety
+25,Female,College,Widowed,In Relation,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,4,4,4,4,1,1,1,1,1,Normal
+50,Male,Graduate,Widowed,In Relation,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,4,4,4,4,1,0,1,0,1,Anxiety and Depression
+40,Male,High School,Divorced,In Relation,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,0,0,0,0,0,1,0,1,1,Anxiety
+45,Female,High School,Widowed,Broke Up,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,1,1,1,1,0,1,1,1,1,Normal
+46,Female,College,Live in,Not in any Relation,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,4,4,4,4,0,1,0,1,1,Anxiety
+33,Female,Post-Graduate,Widowed,In Relation,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,4,4,4,4,1,1,0,1,0,Anxiety
+22,Female,Graduate,Divorced,Broke Up,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,4,4,4,4,0,1,0,1,0,Anxiety
+47,Female,College,Married,In Relation,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,4,4,4,4,1,1,0,1,0,Anxiety
+33,Female,Graduate,Widowed,Not in any Relation,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,4,4,4,4,1,0,1,0,1,Anxiety
+48,Female,High School,Live in,Not in any Relation,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,4,4,4,4,1,0,1,1,1,Normal
+22,Male,Graduate,Single,Not in any Relation,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,4,4,4,4,0,1,1,1,1,Normal
+30,Female,High School,Divorced,In Relation,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,4,4,4,4,1,1,1,1,0,Normal
+26,Female,Graduate,Single,Not in any Relation,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,4,4,4,4,1,1,1,1,1,Normal
+16,Male,Graduate,Divorced,Not in any Relation,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,2,2,2,2,1,1,1,1,1,Normal
+32,Female,Post-Graduate,Single,In Relation,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,3,3,3,3,1,0,1,0,1,Anxiety and Depression
+18,Female,Graduate,Divorced,Not in any Relation,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,1,1,1,1,1,1,1,1,0,Depression
+20,Female,Graduate,Live in,Not in any Relation,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,4,4,4,4,1,0,1,0,1,Anxiety and Depression
+30,Female,Post-Graduate,Live in,Not in any Relation,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,1,1,1,1,0,1,1,1,Normal
+18,Female,College,Divorced,In Relation,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,4,4,4,4,1,0,1,0,1,Anxiety
+28,Female,Post-Graduate,Live in,Not in any Relation,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,4,4,4,4,1,1,1,1,1,Stress
+44,Male,Post-Graduate,Single,Broke Up,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,1,1,1,1,1,1,0,1,1,Normal
+41,Female,Post-Graduate,Live in,Broke Up,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,2,2,2,2,1,0,1,1,1,Normal
+41,Female,College,Divorced,Not in any Relation,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,1,1,1,1,1,1,1,1,1,Normal
+50,Male,College,Live in,Not in any Relation,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,1,1,1,1,1,1,1,1,0,Normal
+33,Male,High School,Married,In Relation,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,1,1,1,1,1,1,0,1,Normal
+17,Female,High School,Divorced,Broke Up,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,4,4,4,4,1,1,1,1,1,Normal
+33,Male,High School,Divorced,In Relation,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,2,2,2,2,1,1,1,1,1,Normal
+19,Male,Graduate,Married,Broke Up,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,3,3,3,3,1,0,1,0,1,Anxiety and Depression
+27,Male,High School,Live in,In Relation,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,4,4,4,4,0,1,0,1,0,Anxiety
+25,Male,Post-Graduate,Live in,In Relation,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,0,0,0,0,0,1,0,1,1,Anxiety
+22,Male,Post-Graduate,Live in,In Relation,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,1,1,1,1,0,1,1,1,1,Depression
+37,Female,High School,Live in,In Relation,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,4,4,4,4,1,1,1,0,1,Depression
+36,Male,Post-Graduate,Live in,Not in any Relation,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,3,3,3,3,0,1,0,1,0,Anxiety
+22,Female,College,Married,Broke Up,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,1,1,1,1,1,1,0,1,Depression and Stress
+20,Female,High School,Married,Broke Up,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,4,4,4,4,1,1,1,1,0,Stress
+30,Male,High School,Married,Not in any Relation,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,0,0,0,0,1,0,1,1,0,Anxiety
+42,Male,College,Married,Broke Up,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,4,4,4,4,1,0,1,0,1,Anxiety
+39,Male,College,Divorced,In Relation,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,3,3,3,3,1,0,1,0,1,Anxiety and Stress
+22,Female,College,Married,In Relation,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,1,1,1,1,1,1,1,1,1,Stress
+38,Male,High School,Divorced,Not in any Relation,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,1,1,1,1,1,1,1,1,Depression
+22,Male,College,Single,Not in any Relation,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,2,2,2,2,1,1,1,1,1,Normal
+41,Male,Graduate,Live in,Broke Up,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,1,1,1,1,1,1,0,1,Stress
+31,Male,Graduate,Live in,Broke Up,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,2,2,2,2,1,1,1,1,1,Normal
+27,Female,College,Married,Broke Up,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,4,4,4,4,1,1,0,1,1,Stress
+31,Male,High School,Married,In Relation,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,0,0,0,0,0,1,0,1,0,Anxiety
+16,Female,Post-Graduate,Married,Not in any Relation,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,1,1,1,1,1,1,1,1,0,Stress
+42,Male,Post-Graduate,Live in,Broke Up,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,4,4,4,4,1,1,0,1,0,Anxiety
+20,Male,High School,Married,In Relation,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,0,0,0,0,0,1,0,1,1,Anxiety
+43,Male,Post-Graduate,Married,Broke Up,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,3,3,3,3,1,0,1,0,1,Anxiety and Stress
+33,Male,College,Widowed,In Relation,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,0,0,0,1,0,1,0,1,Anxiety and Depression
+22,Male,Post-Graduate,Live in,In Relation,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,2,2,2,2,1,1,1,1,1,Normal
+32,Male,Post-Graduate,Single,Not in any Relation,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,4,4,4,4,1,0,1,0,1,Anxiety and Stress
+31,Male,College,Divorced,In Relation,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,1,1,1,1,1,1,1,1,1,Normal
+50,Female,College,Widowed,In Relation,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,1,1,1,1,0,1,1,1,1,Normal
+40,Female,College,Divorced,Broke Up,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,1,1,1,1,1,1,1,1,1,Stress
+46,Male,College,Widowed,Not in any Relation,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,3,3,3,3,0,1,1,0,1,Anxiety
+20,Female,Post-Graduate,Married,Not in any Relation,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,4,4,4,4,1,1,1,0,1,Normal
+24,Female,Post-Graduate,Live in,Broke Up,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,1,1,1,1,1,1,1,1,Normal
+24,Male,Graduate,Divorced,Broke Up,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,1,1,1,1,1,1,1,1,0,Stress
+49,Male,High School,Divorced,Broke Up,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,4,4,4,4,1,0,1,0,1,Anxiety and Stress
+50,Female,Post-Graduate,Married,Broke Up,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,1,1,1,1,1,1,1,1,0,Normal
+43,Male,College,Married,Not in any Relation,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,0,0,0,1,0,1,0,1,Anxiety and Stress
+20,Male,High School,Live in,Broke Up,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,2,2,2,2,1,1,1,1,1,Normal
+41,Female,Graduate,Single,In Relation,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,4,4,4,4,1,1,1,1,1,Stress
+48,Female,High School,Single,Broke Up,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,0,0,0,0,0,1,0,1,1,Anxiety
+29,Female,College,Widowed,Broke Up,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,3,3,3,3,0,1,0,1,1,Anxiety
+19,Female,Graduate,Widowed,Broke Up,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,2,2,2,2,1,1,1,1,1,Normal
+20,Male,College,Live in,Not in any Relation,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,2,2,2,2,1,1,1,1,1,Stress
+44,Male,Post-Graduate,Live in,In Relation,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,4,4,4,4,1,1,1,1,0,Normal
+44,Female,College,Divorced,In Relation,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,4,4,4,4,0,1,1,1,1,Normal
+48,Male,High School,Live in,Broke Up,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,4,4,4,4,1,0,1,0,1,Anxiety and Stress
+50,Male,High School,Divorced,In Relation,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,4,4,4,4,0,1,0,1,0,Anxiety
+47,Female,Post-Graduate,Divorced,Broke Up,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,4,4,4,4,0,1,0,1,1,Anxiety
+43,Female,Post-Graduate,Widowed,Broke Up,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,4,4,4,4,1,1,0,1,1,Normal
+20,Male,College,Widowed,Broke Up,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,1,1,1,1,1,1,0,1,Anxiety
+45,Female,College,Married,Not in any Relation,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,1,1,1,1,1,1,1,1,1,Stress
+41,Female,College,Live in,In Relation,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,2,2,2,2,1,0,1,1,1,Normal
+32,Female,High School,Live in,Not in any Relation,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,4,4,4,4,1,1,1,0,1,Depression and Stress
+19,Male,High School,Widowed,In Relation,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,2,2,2,2,1,1,1,1,1,Depression
+34,Male,High School,Married,Not in any Relation,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,4,4,4,4,0,1,0,1,1,Anxiety
+16,Female,College,Live in,In Relation,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,4,4,4,4,1,0,1,1,0,Anxiety
+24,Male,Post-Graduate,Live in,In Relation,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,4,4,4,4,1,1,1,1,0,Normal
+32,Female,Post-Graduate,Widowed,Not in any Relation,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,4,4,4,4,1,1,0,1,1,Normal
+17,Male,Post-Graduate,Married,Broke Up,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,3,3,3,1,0,1,1,0,Anxiety
+47,Female,College,Single,Broke Up,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,4,4,4,4,1,0,1,1,1,Stress
+47,Female,Graduate,Single,Broke Up,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,4,4,4,4,1,1,1,1,1,Normal
+33,Male,College,Single,Not in any Relation,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,3,3,3,3,0,1,0,1,0,Anxiety
+32,Female,College,Widowed,Not in any Relation,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,1,1,1,1,0,1,1,1,1,Anxiety and Stress
+42,Male,High School,Live in,Broke Up,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,4,4,4,4,1,0,1,0,1,Anxiety and Depression
+40,Female,Post-Graduate,Live in,Broke Up,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,2,2,2,2,0,1,1,1,1,Normal
+36,Female,High School,Widowed,Broke Up,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,1,1,1,1,1,1,0,1,Normal
+44,Male,College,Divorced,Not in any Relation,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,0,0,0,0,0,1,0,1,1,Anxiety
+34,Female,Post-Graduate,Single,Broke Up,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,4,4,4,4,1,1,0,1,0,Anxiety
+38,Female,College,Married,Not in any Relation,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,4,4,4,4,0,1,1,1,1,Normal
+27,Female,Graduate,Live in,Broke Up,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,2,2,2,2,1,1,0,1,1,Stress
+36,Female,Graduate,Divorced,Not in any Relation,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,2,2,2,2,1,1,1,1,1,Normal
+27,Female,College,Live in,Broke Up,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,1,1,1,1,1,1,1,1,Normal
+15,Male,High School,Single,Not in any Relation,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,4,4,4,4,0,1,0,1,1,Anxiety
+37,Female,Post-Graduate,Widowed,In Relation,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,4,4,4,4,0,1,0,1,0,Anxiety
+50,Female,High School,Widowed,Broke Up,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,4,4,4,4,0,1,0,1,0,Anxiety
+49,Female,Graduate,Widowed,In Relation,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,3,3,3,1,0,1,1,0,Anxiety
+35,Female,High School,Live in,Not in any Relation,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,0,0,0,1,0,1,0,1,Anxiety and Depression
+15,Male,College,Widowed,Not in any Relation,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,1,1,1,1,1,1,1,1,0,Normal
+46,Female,College,Live in,Not in any Relation,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,2,2,2,2,1,1,0,1,1,Depression
+18,Female,Post-Graduate,Widowed,Broke Up,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,4,4,4,4,1,0,1,1,0,Anxiety and Stress
+19,Female,College,Live in,In Relation,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,1,1,1,1,1,1,1,1,Normal
+34,Male,Post-Graduate,Live in,In Relation,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,2,2,2,2,1,1,1,1,1,Normal
+40,Male,College,Married,In Relation,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,4,4,4,4,0,1,0,1,0,Anxiety
+31,Male,Graduate,Divorced,In Relation,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,1,1,1,1,1,1,0,1,Stress
+18,Female,College,Widowed,Broke Up,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,0,0,0,0,1,0,1,0,1,Anxiety
+21,Male,Post-Graduate,Single,Not in any Relation,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,1,1,1,1,1,1,1,1,1,Normal
+20,Male,High School,Widowed,Not in any Relation,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,4,4,4,4,1,0,1,0,1,Anxiety
+36,Male,College,Widowed,Not in any Relation,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,4,4,4,4,1,0,1,0,1,Anxiety and Stress
+17,Male,High School,Live in,In Relation,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,3,3,3,3,0,1,1,0,1,Anxiety
+37,Male,College,Divorced,Not in any Relation,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,1,1,1,1,1,1,1,1,1,Normal
+42,Male,High School,Single,Broke Up,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,1,1,1,1,1,1,1,1,1,Normal
+34,Male,Graduate,Single,Broke Up,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,4,4,4,4,1,0,1,1,1,Normal
+44,Male,College,Widowed,Broke Up,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,3,3,3,3,0,1,0,1,1,Anxiety
+46,Male,Post-Graduate,Married,Broke Up,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,4,4,4,4,0,1,0,1,0,Anxiety
+15,Male,College,Married,In Relation,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,3,3,3,3,0,1,0,1,0,Anxiety
+45,Male,College,Live in,In Relation,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,4,4,4,4,1,0,1,0,1,Anxiety and Stress
+35,Male,Post-Graduate,Single,In Relation,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,1,1,1,1,1,1,1,1,1,Anxiety and Depression
+26,Male,Post-Graduate,Widowed,Not in any Relation,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,4,4,4,4,0,1,1,1,1,Stress
+20,Female,College,Divorced,In Relation,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,4,4,4,4,1,0,1,0,1,Anxiety and Stress
+29,Male,High School,Divorced,Not in any Relation,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,1,1,1,1,1,1,1,1,Depression
+24,Male,Post-Graduate,Married,Not in any Relation,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,4,4,4,4,1,0,1,0,1,Anxiety and Depression
+20,Male,High School,Married,In Relation,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,2,2,2,2,1,1,1,0,1,Normal
+48,Male,College,Widowed,In Relation,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,4,4,4,4,1,0,1,0,1,Anxiety
+45,Male,High School,Single,Not in any Relation,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,4,4,4,4,0,1,0,1,0,Anxiety
+40,Male,Graduate,Live in,Not in any Relation,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,2,2,2,2,1,1,1,1,1,Normal
+30,Male,Post-Graduate,Widowed,Not in any Relation,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,4,4,4,4,0,1,0,1,1,Anxiety
+45,Female,High School,Live in,Broke Up,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,4,4,4,4,0,1,0,1,1,Anxiety
+46,Female,Post-Graduate,Live in,Not in any Relation,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,1,1,1,1,1,1,1,1,Stress
+21,Male,College,Live in,Broke Up,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,1,1,1,1,1,1,1,1,Depression and Stress
+23,Male,Graduate,Widowed,In Relation,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,1,1,1,1,1,1,0,1,1,Normal
+15,Male,Graduate,Single,Broke Up,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,2,2,2,2,1,0,1,1,1,Normal
+46,Female,High School,Live in,Broke Up,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,3,3,3,1,1,0,1,0,Anxiety
+41,Male,College,Live in,Not in any Relation,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,4,4,4,4,1,1,0,1,0,Anxiety
+28,Female,High School,Single,Not in any Relation,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,1,1,1,1,1,1,0,1,1,Normal
+42,Female,Post-Graduate,Widowed,Broke Up,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,1,1,1,1,1,1,0,1,1,Normal
+34,Female,Post-Graduate,Single,Broke Up,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,1,1,1,1,0,1,1,1,Normal
+48,Female,Post-Graduate,Single,In Relation,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,4,4,4,4,0,1,0,1,0,Anxiety
+20,Male,Graduate,Divorced,In Relation,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,1,1,1,1,1,1,1,1,Normal
+18,Male,High School,Live in,Not in any Relation,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,4,4,4,4,1,1,1,1,1,Normal
+25,Female,Graduate,Divorced,In Relation,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,0,0,0,1,0,1,0,1,Anxiety and Stress
+25,Male,Graduate,Widowed,In Relation,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,3,3,3,3,1,0,1,0,1,Anxiety and Depression
+18,Female,Graduate,Married,Broke Up,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,1,1,1,1,1,1,1,1,0,Stress
+33,Male,Post-Graduate,Single,Not in any Relation,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,4,4,4,4,1,1,1,1,1,Anxiety
+48,Male,College,Single,Not in any Relation,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,4,4,4,4,1,1,1,1,1,Normal
+41,Female,Post-Graduate,Single,In Relation,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,4,4,4,4,1,1,1,1,0,Normal
+43,Male,College,Widowed,In Relation,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,2,2,2,2,0,1,1,1,1,Normal
+50,Male,Graduate,Married,In Relation,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,1,1,1,1,1,1,0,1,Depression and Stress
+16,Male,Graduate,Widowed,Not in any Relation,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,4,4,4,4,1,1,1,0,1,Normal
+37,Male,Post-Graduate,Divorced,In Relation,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,4,4,4,4,1,1,0,1,1,Normal
+18,Female,Graduate,Live in,In Relation,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,4,4,4,4,1,0,1,0,1,Anxiety and Depression
+20,Female,Post-Graduate,Single,In Relation,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,4,4,4,4,0,1,1,1,1,Stress
+21,Male,High School,Divorced,Broke Up,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,4,4,4,4,1,1,1,1,1,Normal
+25,Male,Post-Graduate,Divorced,Not in any Relation,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,4,4,4,4,0,1,0,1,0,Anxiety
+18,Female,Graduate,Divorced,In Relation,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,0,0,0,1,0,1,0,1,Anxiety and Stress
+30,Male,High School,Divorced,Broke Up,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,0,0,0,0,1,1,0,1,Anxiety
+49,Male,Graduate,Widowed,In Relation,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,0,0,0,1,0,1,0,1,Anxiety and Stress
+35,Male,College,Live in,In Relation,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,4,4,4,4,1,1,0,1,1,Normal
+17,Male,High School,Widowed,In Relation,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,2,2,2,2,1,1,1,0,1,Depression
+15,Male,High School,Married,Broke Up,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,3,3,3,3,0,1,0,1,0,Anxiety
+27,Male,Post-Graduate,Married,Broke Up,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,0,0,0,0,0,1,0,1,0,Anxiety
+48,Female,Post-Graduate,Divorced,Not in any Relation,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,4,4,4,4,0,1,0,1,0,Anxiety
+18,Male,College,Married,In Relation,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,4,4,4,4,1,1,0,1,0,Anxiety
+21,Female,High School,Live in,Not in any Relation,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,2,2,2,2,1,1,1,1,1,Normal
+36,Female,High School,Live in,In Relation,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,3,3,3,3,1,0,1,0,1,Anxiety and Stress
+34,Male,Graduate,Single,In Relation,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,4,4,4,4,1,1,0,1,1,Anxiety and Stress
+19,Male,Graduate,Live in,In Relation,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,0,0,0,1,0,1,0,1,Anxiety and Depression
+40,Female,High School,Live in,In Relation,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,2,2,2,2,1,1,1,1,1,Normal
+29,Female,High School,Married,Broke Up,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,1,1,1,1,1,1,1,1,1,Anxiety and Stress
+48,Male,Graduate,Married,In Relation,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,0,0,0,1,0,1,0,1,Anxiety and Depression
+30,Male,Post-Graduate,Married,Broke Up,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,4,4,4,4,1,0,1,0,1,Anxiety and Stress
+30,Male,High School,Divorced,Broke Up,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,1,1,1,1,1,1,1,1,1,Normal
+30,Male,Graduate,Single,Broke Up,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,3,3,3,0,1,0,1,0,Anxiety
+21,Female,High School,Single,Broke Up,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,0,0,0,0,0,1,0,1,0,Anxiety
+28,Male,College,Divorced,Not in any Relation,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,4,4,4,4,1,0,1,0,1,Anxiety
+36,Female,Post-Graduate,Widowed,Broke Up,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,4,4,4,4,1,0,1,0,1,Anxiety and Depression
+18,Female,High School,Divorced,Not in any Relation,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,4,4,4,4,0,1,1,1,1,Stress
+33,Female,Post-Graduate,Married,Not in any Relation,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,2,2,2,2,1,1,1,1,1,Depression
+45,Male,Graduate,Divorced,In Relation,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,1,1,1,1,1,1,1,1,1,Normal
+25,Male,Graduate,Married,Not in any Relation,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,1,1,1,1,1,1,1,1,1,Stress
+48,Male,High School,Married,Broke Up,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,2,2,2,2,1,1,1,1,0,Normal
+48,Male,High School,Live in,Broke Up,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,4,4,4,4,1,1,1,1,1,Normal
+45,Female,College,Widowed,In Relation,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,1,1,1,1,0,1,1,1,1,Normal
+40,Female,Post-Graduate,Widowed,Not in any Relation,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,4,4,4,4,1,0,1,0,1,Anxiety and Stress
+20,Female,High School,Married,Broke Up,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,4,4,4,4,1,0,1,0,1,Anxiety
+40,Female,Post-Graduate,Single,In Relation,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,2,2,2,2,1,1,1,1,0,Depression
+43,Female,High School,Married,In Relation,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,0,0,0,0,1,1,0,1,0,Anxiety
+48,Female,High School,Live in,Broke Up,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,4,4,4,4,1,1,1,1,1,Depression
+49,Male,High School,Divorced,Not in any Relation,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,4,4,4,4,1,0,1,0,1,Anxiety and Stress
+30,Male,College,Single,In Relation,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,4,4,4,4,1,1,0,1,0,Anxiety
+34,Male,Graduate,Widowed,Not in any Relation,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,0,0,0,1,0,1,0,1,Anxiety and Depression
+35,Female,College,Widowed,In Relation,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,4,4,4,4,1,1,1,1,1,Normal
+16,Male,Graduate,Single,Not in any Relation,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,3,3,3,3,0,1,1,0,1,Anxiety
+43,Female,High School,Married,Not in any Relation,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,2,2,2,2,1,1,1,0,1,Normal
+26,Male,High School,Married,Broke Up,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,0,0,0,0,1,1,0,1,0,Anxiety
+25,Female,Graduate,Divorced,In Relation,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,1,1,1,1,1,1,1,1,1,Normal
+19,Female,Post-Graduate,Married,Not in any Relation,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,2,2,2,2,1,1,1,0,1,Stress
+50,Female,College,Married,In Relation,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,4,4,4,4,1,0,1,0,1,Anxiety and Stress
+38,Female,Graduate,Divorced,Not in any Relation,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,4,4,4,4,1,1,0,1,0,Anxiety
+38,Male,Graduate,Married,In Relation,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,4,4,4,4,0,1,0,1,0,Anxiety
+25,Male,College,Widowed,Not in any Relation,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,1,1,1,1,1,1,1,1,1,Anxiety
+19,Male,Graduate,Single,Broke Up,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,3,3,3,1,1,0,1,0,Anxiety
+23,Male,College,Widowed,In Relation,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,4,4,4,4,0,1,1,1,1,Normal
+22,Female,College,Married,In Relation,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,2,2,2,2,1,1,1,1,0,Depression
+34,Female,Graduate,Divorced,Not in any Relation,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,1,1,1,1,1,1,1,1,1,Normal
+16,Female,Graduate,Divorced,Broke Up,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,4,4,4,4,0,1,0,1,0,Anxiety
+29,Female,College,Single,Not in any Relation,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,4,4,4,4,0,1,0,1,0,Anxiety
+28,Male,College,Divorced,Not in any Relation,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,3,3,3,3,1,0,1,0,1,Anxiety and Depression
+19,Female,Post-Graduate,Widowed,Not in any Relation,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,4,4,4,4,1,0,1,1,0,Anxiety
+17,Male,Graduate,Widowed,Broke Up,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,4,4,4,4,0,1,0,1,0,Anxiety
+45,Female,Post-Graduate,Divorced,Not in any Relation,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,1,1,1,1,1,1,0,1,1,Anxiety
+25,Male,Graduate,Widowed,Not in any Relation,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,2,2,2,2,1,1,1,1,0,Normal
+15,Male,Graduate,Divorced,Broke Up,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,4,4,4,4,1,1,1,1,0,Normal
+38,Female,College,Single,Not in any Relation,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,0,0,0,0,0,1,0,1,0,Anxiety
+39,Female,High School,Live in,Not in any Relation,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,1,1,1,1,0,1,1,1,1,Normal
+17,Female,High School,Widowed,In Relation,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,4,4,4,4,1,1,0,1,0,Anxiety
+26,Male,College,Single,Not in any Relation,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,2,2,2,2,1,0,1,1,1,Depression
+49,Male,Graduate,Live in,Not in any Relation,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,2,2,2,2,1,1,1,0,1,Normal
+17,Male,Post-Graduate,Divorced,Broke Up,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,4,4,4,4,1,1,0,1,0,Anxiety
+50,Female,Graduate,Widowed,In Relation,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,1,1,1,1,1,1,0,1,1,Anxiety and Depression
+17,Male,Graduate,Married,In Relation,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,4,4,4,4,1,1,1,1,1,Normal
+39,Female,College,Widowed,In Relation,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,1,1,1,1,1,1,1,1,0,Normal
+33,Male,Graduate,Live in,Broke Up,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,1,1,1,1,0,1,1,1,Depression and Stress
+20,Male,Post-Graduate,Widowed,Not in any Relation,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,4,4,4,4,0,1,0,1,1,Anxiety
+39,Female,Post-Graduate,Married,Broke Up,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,3,3,3,3,1,0,1,0,1,Anxiety and Stress
+32,Female,Graduate,Married,Not in any Relation,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,4,4,4,4,1,0,1,1,1,Normal
+39,Male,College,Divorced,Broke Up,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,2,2,2,2,1,1,1,0,1,Depression
+29,Female,High School,Single,Not in any Relation,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,4,4,4,4,1,1,1,0,1,Normal
+42,Female,Post-Graduate,Widowed,In Relation,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,1,1,1,1,0,1,1,1,Normal
+29,Male,Graduate,Single,Broke Up,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,4,4,4,4,1,1,0,1,0,Anxiety
+29,Female,College,Live in,Not in any Relation,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,3,3,3,1,0,1,1,0,Anxiety
+26,Female,Post-Graduate,Live in,In Relation,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,3,3,3,3,0,1,0,1,1,Anxiety
+35,Female,College,Divorced,Broke Up,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,2,2,2,2,1,1,1,1,1,Normal
+33,Male,High School,Single,Not in any Relation,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,4,4,4,4,0,1,0,1,0,Anxiety
+44,Female,High School,Widowed,Not in any Relation,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,1,1,1,1,1,1,1,1,Stress
+48,Female,Graduate,Married,In Relation,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,1,1,1,1,1,1,0,1,1,Anxiety and Stress
+16,Female,Post-Graduate,Married,Not in any Relation,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,4,4,4,4,0,1,0,1,0,Anxiety
+16,Female,College,Widowed,In Relation,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,3,3,3,1,0,1,1,0,Anxiety
+34,Female,Graduate,Divorced,Not in any Relation,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,4,4,4,4,1,0,1,0,1,Anxiety
+17,Male,Post-Graduate,Divorced,Broke Up,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,1,1,1,1,0,1,1,1,Normal
+42,Male,High School,Widowed,In Relation,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,4,4,4,4,1,0,1,0,1,Anxiety and Stress
+19,Male,Graduate,Married,In Relation,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,4,4,4,4,1,0,1,0,1,Anxiety and Stress
+19,Male,Graduate,Single,Broke Up,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,4,4,4,4,1,0,1,1,1,Normal
+45,Female,Post-Graduate,Live in,In Relation,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,4,4,4,4,1,0,1,1,1,Normal
+32,Female,Graduate,Single,Broke Up,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,2,2,2,2,1,1,1,0,1,Stress
+34,Female,College,Married,Broke Up,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,0,0,0,0,0,1,0,1,0,Anxiety
+32,Male,Post-Graduate,Divorced,In Relation,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,4,4,4,4,0,1,1,0,1,Anxiety
+23,Female,Post-Graduate,Live in,Not in any Relation,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,1,1,1,1,0,1,1,1,1,Normal
+47,Female,Graduate,Divorced,Not in any Relation,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,4,4,4,4,1,0,1,1,0,Anxiety
+15,Male,Graduate,Single,In Relation,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,1,1,1,1,0,1,1,1,Stress
+40,Male,College,Live in,Broke Up,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,4,4,4,4,1,0,1,0,1,Anxiety and Depression
+39,Female,College,Married,Not in any Relation,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,1,1,1,1,1,1,0,1,1,Normal
+49,Female,College,Single,Broke Up,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,2,2,2,2,1,1,1,1,0,Normal
+37,Male,Post-Graduate,Live in,In Relation,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,1,1,1,1,0,1,1,1,1,Normal
+31,Female,Graduate,Divorced,Not in any Relation,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,0,0,0,0,1,0,1,0,1,Anxiety
+25,Female,High School,Single,Broke Up,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,4,4,4,4,0,1,1,0,1,Anxiety
+15,Female,College,Single,Broke Up,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,4,4,4,4,1,1,0,1,1,Stress
+17,Male,College,Married,In Relation,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,4,4,4,4,1,1,0,1,1,Depression
+45,Female,High School,Married,Not in any Relation,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,4,4,4,4,1,1,1,1,1,Normal
+24,Male,Post-Graduate,Single,Not in any Relation,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,1,1,1,1,1,1,1,1,1,Normal
+15,Male,College,Single,Not in any Relation,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,0,0,0,0,1,0,1,0,1,Anxiety
+31,Male,Graduate,Live in,Not in any Relation,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,1,1,1,1,1,1,0,1,1,Normal
+38,Female,Post-Graduate,Divorced,In Relation,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,4,4,4,4,1,1,1,1,1,Normal
+50,Female,College,Widowed,In Relation,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,0,0,0,0,1,1,0,1,Anxiety
+18,Female,College,Divorced,Broke Up,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,3,3,3,3,0,1,0,1,1,Anxiety
+45,Male,Post-Graduate,Married,Not in any Relation,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,3,3,3,0,1,0,1,0,Anxiety
+22,Male,Graduate,Married,In Relation,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,2,2,2,2,1,1,0,1,1,Depression
+36,Male,College,Married,In Relation,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,3,3,3,3,0,1,0,1,1,Anxiety
+49,Male,High School,Widowed,In Relation,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,3,3,3,1,1,0,1,0,Anxiety
+32,Male,College,Single,In Relation,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,4,4,4,4,1,0,1,0,1,Anxiety
+31,Male,Graduate,Live in,Broke Up,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,1,1,1,1,1,1,1,1,Depression
+37,Male,College,Single,Not in any Relation,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,2,2,2,2,1,1,1,1,1,Normal
+31,Male,Post-Graduate,Divorced,Not in any Relation,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,3,3,3,0,1,0,1,0,Anxiety
+43,Male,Graduate,Single,Broke Up,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,1,1,1,1,1,1,1,1,1,Normal
+20,Male,High School,Live in,In Relation,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,0,0,0,0,1,0,1,1,0,Anxiety
+44,Male,Graduate,Married,Broke Up,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,4,4,4,4,1,0,1,0,1,Anxiety
+49,Female,Post-Graduate,Single,In Relation,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,2,2,2,2,1,1,1,1,1,Normal
+46,Female,Post-Graduate,Married,Broke Up,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,2,2,2,2,1,1,0,1,1,Stress
+44,Female,High School,Widowed,Broke Up,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,1,1,1,1,1,1,1,1,1,Stress
+49,Male,High School,Single,In Relation,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,3,3,3,3,0,1,0,1,0,Anxiety
+38,Male,Graduate,Divorced,Not in any Relation,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,4,4,4,4,1,0,1,0,1,Anxiety and Depression
+39,Female,Graduate,Single,Not in any Relation,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,1,1,1,1,1,1,1,1,1,Anxiety
+31,Female,College,Live in,In Relation,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,4,4,4,4,0,1,1,0,1,Anxiety
+49,Male,Post-Graduate,Widowed,Not in any Relation,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,3,3,3,3,0,1,0,1,1,Anxiety
+50,Male,High School,Married,Broke Up,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,1,1,1,1,1,1,0,1,Normal
+41,Female,College,Widowed,Broke Up,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,0,0,0,0,0,1,0,1,0,Anxiety
+41,Female,College,Divorced,In Relation,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,3,3,3,1,0,1,1,0,Anxiety
+19,Female,Post-Graduate,Single,Broke Up,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,3,3,3,0,1,0,1,0,Anxiety
+36,Female,College,Live in,Not in any Relation,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,2,2,2,2,1,1,1,1,1,Normal
+40,Female,Post-Graduate,Married,Not in any Relation,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,2,2,2,2,1,1,1,1,1,Depression
+25,Female,College,Married,Not in any Relation,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,4,4,4,4,0,1,1,1,1,Normal
+16,Male,Graduate,Divorced,In Relation,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,3,3,3,0,1,0,1,0,Anxiety
+48,Male,Graduate,Widowed,Not in any Relation,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,2,2,2,2,1,1,1,1,1,Normal
+40,Female,High School,Married,Broke Up,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,4,4,4,4,1,0,1,1,0,Anxiety
+19,Male,Post-Graduate,Divorced,Broke Up,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,2,2,2,2,1,1,1,0,1,Normal
+46,Female,Post-Graduate,Widowed,In Relation,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,2,2,2,2,1,1,1,1,1,Normal
+17,Male,Graduate,Married,In Relation,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,1,1,1,1,1,1,1,1,0,Normal
+22,Male,College,Single,Not in any Relation,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,4,4,4,4,0,1,0,1,0,Anxiety
+33,Female,Post-Graduate,Live in,In Relation,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,4,4,4,4,1,1,1,1,1,Normal
+18,Male,High School,Live in,Not in any Relation,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,4,4,4,4,0,1,0,1,0,Anxiety
+36,Female,Graduate,Single,In Relation,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,1,1,1,1,1,1,1,1,1,Stress
+45,Male,Post-Graduate,Married,Broke Up,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,4,4,4,4,1,1,1,1,0,Normal
+40,Female,Graduate,Married,Broke Up,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,2,2,2,2,1,1,1,1,1,Depression and Stress
+18,Female,High School,Live in,Not in any Relation,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,1,1,1,1,0,1,1,1,Normal
+41,Male,High School,Widowed,In Relation,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,4,4,4,4,0,1,0,1,0,Anxiety
+29,Male,College,Widowed,In Relation,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,4,4,4,4,0,1,0,1,0,Anxiety
+31,Female,Graduate,Widowed,Not in any Relation,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,1,1,1,1,1,1,1,1,Normal
+47,Male,Post-Graduate,Divorced,Not in any Relation,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,3,3,3,1,0,1,1,0,Anxiety
+26,Female,Post-Graduate,Widowed,Broke Up,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,0,0,0,0,0,1,0,1,0,Anxiety
+21,Female,Graduate,Single,Not in any Relation,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,3,3,3,3,1,0,1,0,1,Anxiety and Depression
+22,Female,College,Divorced,Not in any Relation,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,2,2,2,2,1,1,1,1,1,Normal
+28,Male,Post-Graduate,Divorced,In Relation,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,1,1,1,1,1,1,0,1,Normal
+31,Female,High School,Single,Broke Up,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,4,4,4,4,1,0,1,0,1,Anxiety
+35,Male,High School,Single,Broke Up,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,4,4,4,4,0,1,1,1,1,Depression
+19,Male,College,Married,Not in any Relation,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,1,1,1,1,1,1,1,1,1,Normal
+44,Female,Graduate,Widowed,Broke Up,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,4,4,4,4,1,0,1,1,0,Anxiety
+33,Female,Graduate,Divorced,Not in any Relation,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,0,0,0,0,0,1,0,1,1,Anxiety
+23,Female,College,Live in,Broke Up,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,0,0,0,0,0,1,0,1,0,Anxiety
+49,Female,High School,Widowed,In Relation,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,3,3,3,3,0,1,1,0,1,Anxiety
+31,Male,High School,Married,Broke Up,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,2,2,2,2,0,1,1,1,1,Normal
+39,Male,College,Widowed,Broke Up,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,1,1,1,1,1,1,1,1,1,Normal
+27,Female,College,Single,In Relation,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,3,3,3,1,0,1,1,0,Anxiety
+33,Male,Graduate,Married,In Relation,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,3,3,3,3,0,1,1,0,1,Anxiety
+27,Male,Post-Graduate,Divorced,In Relation,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,4,4,4,4,1,1,1,1,1,Normal
+33,Male,Post-Graduate,Married,Broke Up,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,3,3,3,1,0,1,1,0,Anxiety
+39,Male,High School,Live in,In Relation,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,4,4,4,4,1,1,1,1,1,Depression
+35,Female,Graduate,Married,In Relation,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,1,1,1,1,1,1,0,1,1,Anxiety and Stress
+44,Female,Graduate,Widowed,In Relation,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,0,0,0,0,1,0,1,1,0,Anxiety
+21,Female,Graduate,Married,Not in any Relation,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,1,1,1,1,1,1,1,1,1,Normal
+50,Male,College,Widowed,Broke Up,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,4,4,4,4,1,0,1,0,1,Anxiety and Depression
+15,Female,High School,Live in,In Relation,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,2,2,2,2,1,1,1,1,1,Normal
+17,Male,Post-Graduate,Married,Not in any Relation,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,4,4,4,4,1,1,1,1,1,Normal
+15,Female,Post-Graduate,Widowed,Not in any Relation,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,4,4,4,4,1,0,1,1,0,Anxiety
+32,Male,Post-Graduate,Widowed,In Relation,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,4,4,4,4,1,0,1,1,0,Anxiety
+48,Female,Post-Graduate,Married,Not in any Relation,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,4,4,4,4,1,0,1,0,1,Anxiety
+18,Female,High School,Divorced,Not in any Relation,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,0,0,0,0,1,1,0,1,Anxiety
+26,Male,High School,Live in,In Relation,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,0,0,0,0,1,0,1,1,0,Anxiety
+18,Female,Post-Graduate,Single,In Relation,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,1,1,1,1,1,1,0,1,Normal
+34,Male,Post-Graduate,Divorced,Broke Up,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,4,4,4,4,1,1,1,1,1,Normal
+43,Female,Graduate,Divorced,Broke Up,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,3,3,3,3,1,0,1,0,1,Anxiety and Depression
+46,Female,High School,Married,In Relation,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,4,4,4,4,0,1,1,1,1,Normal
+17,Male,College,Single,Broke Up,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,1,1,1,1,1,1,1,1,1,Normal
+49,Female,High School,Single,Broke Up,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,2,2,2,2,1,1,1,1,1,Stress
+30,Male,High School,Single,In Relation,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,4,4,4,4,1,1,0,1,1,Stress
+22,Female,College,Divorced,Not in any Relation,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,4,4,4,4,0,1,0,1,0,Anxiety
+48,Male,Post-Graduate,Single,In Relation,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,4,4,4,4,1,1,1,1,1,Normal
+18,Male,College,Divorced,Broke Up,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,1,1,1,1,1,1,1,1,Normal
+43,Male,Post-Graduate,Single,In Relation,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,4,4,4,4,1,1,0,1,0,Anxiety
+44,Male,Graduate,Live in,Not in any Relation,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,4,4,4,4,0,1,0,1,0,Anxiety
+38,Male,Graduate,Married,Not in any Relation,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,1,1,1,1,1,1,1,1,1,Normal
+41,Female,High School,Live in,Not in any Relation,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,3,3,3,3,1,0,1,0,1,Anxiety
+35,Male,College,Single,In Relation,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,4,4,4,4,0,1,1,0,1,Depression
+46,Male,Graduate,Married,Broke Up,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,0,0,0,0,1,0,1,0,1,Anxiety
+40,Female,Graduate,Live in,In Relation,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,3,3,3,3,0,1,0,1,1,Anxiety
+20,Male,Graduate,Live in,Not in any Relation,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,4,4,4,4,0,1,0,1,0,Anxiety
+34,Female,College,Live in,In Relation,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,1,1,1,1,1,1,1,1,1,Stress
+24,Male,College,Single,In Relation,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,4,4,4,4,1,1,1,0,1,Normal
+42,Female,Graduate,Divorced,Broke Up,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,4,4,4,4,1,0,1,0,1,Anxiety and Depression
+15,Female,Post-Graduate,Divorced,Broke Up,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,4,4,4,4,1,0,1,1,0,Anxiety
+44,Male,Graduate,Married,In Relation,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,4,4,4,4,1,0,1,0,1,Anxiety
+39,Female,College,Live in,Broke Up,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,4,4,4,4,0,1,0,1,0,Anxiety
+32,Female,Post-Graduate,Single,Broke Up,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,3,3,3,1,0,1,1,0,Anxiety
+48,Male,Post-Graduate,Widowed,In Relation,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,4,4,4,4,1,0,1,0,1,Anxiety and Depression
+23,Male,Graduate,Widowed,Not in any Relation,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,1,1,1,1,1,1,1,1,1,Normal
+46,Male,High School,Widowed,In Relation,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,1,1,1,1,1,1,0,1,1,Normal
+38,Female,College,Divorced,In Relation,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,4,4,4,4,1,1,1,1,1,Normal
+49,Male,Graduate,Single,Broke Up,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,4,4,4,4,0,1,1,0,1,Anxiety
+36,Female,Post-Graduate,Widowed,Not in any Relation,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,4,4,4,4,0,1,0,1,0,Anxiety
+34,Female,Post-Graduate,Divorced,Broke Up,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,4,4,4,4,1,0,1,0,1,Anxiety and Stress
+27,Male,Graduate,Divorced,Not in any Relation,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,1,1,1,1,0,1,1,1,1,Normal
+31,Male,College,Live in,Broke Up,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,4,4,4,4,1,0,1,0,1,Anxiety and Depression
+22,Female,Post-Graduate,Widowed,Broke Up,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,3,3,3,3,1,0,1,0,1,Anxiety
+37,Female,Post-Graduate,Single,Not in any Relation,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,1,1,1,1,1,1,0,1,1,Normal
+22,Male,High School,Widowed,Not in any Relation,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,0,0,0,0,0,1,0,1,0,Anxiety
+25,Male,Post-Graduate,Live in,Not in any Relation,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,0,0,0,0,1,1,0,1,0,Anxiety
+41,Male,Graduate,Divorced,Not in any Relation,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,2,2,2,2,1,1,1,1,0,Stress
+32,Male,Graduate,Widowed,Not in any Relation,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,2,2,2,2,1,1,1,1,0,Normal
+50,Male,College,Married,In Relation,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,0,0,0,0,0,1,0,1,0,Anxiety
+34,Male,Post-Graduate,Divorced,Not in any Relation,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,4,4,4,4,0,1,0,1,1,Anxiety
+38,Male,College,Widowed,Broke Up,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,4,4,4,4,1,1,1,1,1,Depression and Stress
+46,Male,Graduate,Live in,In Relation,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,4,4,4,4,1,0,1,0,1,Anxiety
+15,Female,Post-Graduate,Single,Not in any Relation,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,0,0,0,0,0,1,0,1,0,Anxiety
+30,Female,College,Widowed,Broke Up,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,4,4,4,4,0,1,0,1,0,Anxiety
+18,Male,Post-Graduate,Married,Broke Up,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,0,0,0,0,1,0,1,0,1,Anxiety
+28,Male,Post-Graduate,Widowed,Broke Up,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,4,4,4,4,1,1,0,1,0,Anxiety
+46,Male,Graduate,Married,In Relation,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,0,0,0,0,1,0,1,1,0,Depression
+21,Male,Graduate,Live in,In Relation,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,4,4,4,4,1,0,1,1,0,Anxiety
+23,Female,College,Single,In Relation,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,4,4,4,4,1,0,1,1,0,Anxiety
+21,Male,Graduate,Married,In Relation,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,4,4,4,4,1,1,1,1,0,Normal
+25,Female,Post-Graduate,Divorced,Not in any Relation,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,1,1,1,1,0,1,1,1,1,Normal
+35,Female,Post-Graduate,Divorced,In Relation,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,1,1,1,1,1,1,0,1,Normal
+38,Male,College,Divorced,In Relation,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,3,3,3,3,0,1,1,0,1,Anxiety
+32,Male,Graduate,Married,Broke Up,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,1,1,1,1,0,1,1,1,1,Normal
+22,Female,Post-Graduate,Widowed,Not in any Relation,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,1,1,1,1,1,1,1,1,1,Normal
+31,Male,College,Live in,In Relation,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,4,4,4,4,0,1,1,0,1,Anxiety
+43,Male,College,Married,In Relation,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,1,1,1,1,0,1,1,1,Normal
+20,Male,College,Widowed,In Relation,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,3,3,3,3,0,1,0,1,0,Anxiety
+41,Male,Post-Graduate,Married,Not in any Relation,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,1,1,1,1,0,1,1,1,1,Normal
+20,Female,Graduate,Live in,Broke Up,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,1,1,1,1,1,1,0,1,Normal
+15,Male,High School,Married,Not in any Relation,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,0,0,0,0,1,1,0,1,Anxiety
+20,Male,College,Married,Not in any Relation,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,4,4,4,4,0,1,0,1,0,Anxiety
+33,Female,Post-Graduate,Married,Not in any Relation,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,4,4,4,4,1,1,1,1,0,Normal
+42,Male,Graduate,Live in,Not in any Relation,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,4,4,4,4,1,1,1,0,1,Normal
+49,Male,High School,Divorced,In Relation,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,4,4,4,4,1,1,1,1,1,Normal
+42,Female,College,Widowed,In Relation,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,1,1,1,1,1,1,1,1,1,Normal
+49,Male,College,Widowed,Not in any Relation,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,4,4,4,4,1,1,1,1,0,Normal
+50,Female,High School,Married,Not in any Relation,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,0,0,0,0,0,1,0,1,0,Anxiety
+32,Male,High School,Live in,Not in any Relation,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,1,1,1,1,0,1,1,1,1,Normal
+29,Female,Graduate,Single,Not in any Relation,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,3,3,3,0,1,0,1,0,Anxiety
+48,Male,Graduate,Single,Broke Up,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,1,1,1,1,1,1,1,1,1,Normal
+37,Female,Post-Graduate,Divorced,Broke Up,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,2,2,2,2,0,1,1,1,1,Normal
+37,Male,High School,Single,Broke Up,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,4,4,4,4,0,1,0,1,0,Anxiety
+21,Female,Graduate,Live in,Broke Up,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,2,2,2,2,0,1,1,1,1,Normal
+24,Female,College,Widowed,Not in any Relation,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,0,0,0,0,1,0,1,1,0,Anxiety
+28,Female,Post-Graduate,Live in,Not in any Relation,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,0,0,0,0,1,0,1,0,1,Anxiety
+24,Male,College,Divorced,Broke Up,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,4,4,4,4,0,1,0,1,0,Anxiety
+32,Female,Post-Graduate,Divorced,Not in any Relation,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,3,3,3,3,0,1,1,0,1,Anxiety
+49,Male,Post-Graduate,Live in,Not in any Relation,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,2,2,2,2,1,1,1,1,1,Stress
+20,Female,Graduate,Widowed,Not in any Relation,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,4,4,4,4,1,0,1,0,1,Anxiety and Stress
+25,Female,Post-Graduate,Widowed,Not in any Relation,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,1,1,1,1,1,1,1,1,1,Depression and Stress
+34,Male,College,Widowed,Not in any Relation,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,0,0,0,0,0,1,0,1,0,Anxiety
+23,Female,High School,Married,Broke Up,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,0,0,0,0,1,1,0,1,Anxiety
+39,Male,Graduate,Divorced,Broke Up,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,1,1,1,1,0,1,1,1,Depression and Stress
+48,Female,High School,Single,Not in any Relation,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,0,0,0,0,1,0,1,0,1,Anxiety
+30,Male,High School,Single,Broke Up,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,4,4,4,4,1,1,1,1,0,Normal
+32,Female,High School,Married,Not in any Relation,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,4,4,4,4,1,0,1,0,1,Anxiety
+37,Male,Post-Graduate,Widowed,In Relation,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,4,4,4,4,1,0,1,0,1,Anxiety and Depression
+34,Female,College,Divorced,In Relation,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,3,1,1,1,1,1,1,1,1,Depression
+45,Male,High School,Widowed,In Relation,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,4,4,4,4,0,1,0,1,0,Anxiety
+38,Female,College,Single,Not in any Relation,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,2,2,2,2,1,1,1,1,1,Normal
+20,Male,Graduate,Widowed,Not in any Relation,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,4,4,4,4,1,1,1,1,0,Normal
+26,Female,High School,Single,Broke Up,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,3,3,3,1,1,0,1,0,Anxiety
+15,Female,Graduate,Widowed,Not in any Relation,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,4,4,4,4,0,1,0,1,0,Anxiety
+15,Female,Post-Graduate,Married,Broke Up,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,4,4,4,4,1,1,1,1,0,Depression
+35,Female,High School,Divorced,Broke Up,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,1,1,1,1,1,1,1,1,1,Depression
+23,Male,Post-Graduate,Single,Broke Up,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,1,1,1,1,1,1,1,1,1,Stress
+38,Female,High School,Widowed,Not in any Relation,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,3,3,3,3,1,0,1,0,1,Anxiety and Depression
+37,Male,Graduate,Widowed,In Relation,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,4,4,4,4,1,1,1,1,1,Depression and Stress
+34,Female,High School,Married,Not in any Relation,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,2,2,2,2,1,1,1,1,1,Normal
+29,Female,High School,Married,Not in any Relation,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,3,3,3,3,1,0,1,0,1,Anxiety and Depression
+28,Male,Graduate,Live in,Broke Up,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,0,0,0,0,0,1,0,1,0,Anxiety
+36,Male,College,Live in,Broke Up,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,0,0,0,0,0,1,0,1,0,Anxiety
+50,Male,Graduate,Married,Not in any Relation,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,4,4,4,4,1,0,1,0,1,Anxiety
+36,Female,College,Widowed,Not in any Relation,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,2,2,2,2,0,1,1,1,1,Normal
+44,Female,College,Divorced,In Relation,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,4,4,4,4,1,0,1,0,1,Anxiety and Stress
+29,Female,Post-Graduate,Single,Not in any Relation,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,0,0,0,0,0,1,0,1,1,Anxiety
+15,Female,Graduate,Widowed,Not in any Relation,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,3,3,3,0,1,0,1,0,Anxiety
+42,Male,College,Live in,In Relation,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,4,4,4,4,1,0,1,0,1,Anxiety and Depression
+39,Female,Graduate,Widowed,Not in any Relation,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,3,3,3,0,1,0,1,0,Anxiety
+31,Male,Graduate,Divorced,Broke Up,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,4,4,4,4,1,0,1,0,1,Anxiety and Depression
+28,Female,High School,Divorced,Broke Up,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,1,1,1,1,1,1,1,1,Depression
+36,Female,High School,Live in,Broke Up,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,4,4,4,4,1,1,1,1,0,Stress
+50,Female,Post-Graduate,Live in,Broke Up,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,1,1,1,1,1,1,0,1,Normal
+15,Female,High School,Divorced,Not in any Relation,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,4,4,4,4,1,0,1,0,1,Anxiety
+50,Male,College,Widowed,In Relation,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,3,3,3,3,1,0,1,0,1,Anxiety and Stress
+21,Male,College,Widowed,Broke Up,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,4,4,4,4,0,1,0,1,0,Anxiety
+40,Female,Graduate,Widowed,Not in any Relation,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,3,3,3,0,1,0,1,0,Anxiety
+20,Female,Post-Graduate,Married,Broke Up,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,2,2,2,2,1,1,1,1,1,Anxiety and Stress
+46,Female,High School,Widowed,In Relation,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,0,0,0,0,0,1,0,1,1,Anxiety
+44,Female,Graduate,Divorced,Broke Up,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,1,1,1,1,0,1,1,1,1,Normal
+26,Female,High School,Married,In Relation,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,1,1,1,1,1,1,1,1,0,Normal
+48,Male,Post-Graduate,Live in,Not in any Relation,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,3,3,3,3,1,0,1,0,1,Anxiety and Stress
+44,Female,Graduate,Live in,Not in any Relation,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,2,2,2,2,1,1,1,1,1,Normal
+45,Male,Graduate,Live in,Broke Up,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,4,4,4,4,1,1,1,0,1,Normal
+34,Male,College,Single,Broke Up,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,1,1,1,1,1,1,1,1,1,Normal
+19,Female,High School,Married,In Relation,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,3,3,3,3,0,1,0,1,0,Anxiety
+50,Male,College,Married,Broke Up,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,0,0,0,1,0,1,0,1,Anxiety and Depression
+26,Male,Graduate,Single,Not in any Relation,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,1,1,1,1,0,1,1,1,Depression and Stress
+24,Male,Post-Graduate,Live in,Not in any Relation,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,3,3,3,3,1,0,1,0,1,Anxiety
+21,Male,College,Divorced,In Relation,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,1,1,1,1,1,1,1,1,1,Normal
+37,Male,Post-Graduate,Live in,Not in any Relation,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,2,2,2,2,0,1,1,1,1,Stress
+29,Female,Post-Graduate,Live in,Not in any Relation,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,2,2,2,2,0,1,1,1,1,Normal
+26,Female,College,Divorced,Broke Up,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,3,3,3,3,1,0,1,0,1,Anxiety and Stress
+29,Male,High School,Widowed,Not in any Relation,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,4,4,4,4,1,1,1,1,1,Stress
+24,Male,Post-Graduate,Single,Broke Up,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,4,4,4,4,0,1,1,0,1,Anxiety
+22,Male,Post-Graduate,Divorced,Broke Up,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,0,0,0,0,0,1,0,1,0,Anxiety
+19,Male,College,Divorced,Broke Up,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,4,4,4,4,1,0,1,0,1,Anxiety
+32,Male,High School,Widowed,Broke Up,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,1,1,1,1,1,1,0,1,1,Normal
+23,Male,High School,Single,Broke Up,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,2,2,2,2,1,1,1,1,1,Normal
+22,Male,High School,Single,Broke Up,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,3,3,3,0,1,0,1,0,Anxiety
+48,Female,High School,Widowed,Not in any Relation,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,2,2,2,2,0,1,1,1,1,Normal
+46,Female,College,Live in,Not in any Relation,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,2,2,2,2,1,1,1,1,1,Normal
+35,Male,Post-Graduate,Single,Broke Up,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,4,4,4,4,1,1,1,0,1,Anxiety
+29,Female,College,Live in,Not in any Relation,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,1,1,1,1,0,1,1,1,Depression
+23,Male,College,Married,Broke Up,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,1,1,1,1,1,1,1,1,Depression
+32,Female,High School,Live in,In Relation,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,4,4,4,4,0,1,0,1,1,Anxiety
+41,Female,College,Married,Not in any Relation,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,4,4,4,4,1,0,1,1,0,Anxiety
+22,Female,High School,Widowed,In Relation,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,4,4,4,4,0,1,1,0,1,Anxiety
+19,Male,College,Divorced,Broke Up,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,1,1,1,1,1,1,1,1,1,Normal
+18,Male,Graduate,Live in,In Relation,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,4,4,4,4,0,1,1,0,1,Anxiety
+27,Male,College,Divorced,Not in any Relation,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,3,3,3,3,0,1,0,1,1,Anxiety
+27,Female,Post-Graduate,Live in,Broke Up,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,1,1,1,1,1,1,0,1,1,Stress
+18,Male,High School,Widowed,Not in any Relation,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,1,1,1,1,0,1,1,1,Normal
+48,Female,Graduate,Divorced,Not in any Relation,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,4,4,4,4,1,1,1,1,1,Normal
+31,Female,Post-Graduate,Divorced,Broke Up,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,2,2,2,2,1,1,1,1,1,Normal
+17,Male,High School,Widowed,Broke Up,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,4,4,4,4,0,1,0,1,0,Anxiety
+17,Female,Post-Graduate,Divorced,Not in any Relation,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,3,3,3,3,1,0,1,0,1,Anxiety and Stress
+37,Male,College,Single,Not in any Relation,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,4,4,4,4,1,0,1,1,0,Anxiety
+41,Male,Post-Graduate,Live in,Not in any Relation,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,4,4,4,4,1,0,1,1,0,Anxiety
+21,Male,Graduate,Divorced,In Relation,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,0,0,0,0,0,1,0,1,1,Anxiety
+29,Female,College,Married,In Relation,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,2,2,2,2,1,1,1,1,1,Depression
+17,Female,Post-Graduate,Married,Broke Up,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,0,0,0,1,0,1,0,1,Anxiety and Depression
+19,Male,Graduate,Live in,Not in any Relation,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,3,3,3,3,0,1,0,1,0,Anxiety
+20,Male,Graduate,Single,Broke Up,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,4,4,4,4,1,0,1,1,0,Anxiety
+46,Male,Post-Graduate,Divorced,In Relation,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,1,1,1,1,0,1,1,1,1,Stress
+46,Female,Graduate,Live in,In Relation,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,4,4,4,4,0,1,0,1,0,Anxiety
+33,Male,Graduate,Live in,In Relation,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,4,4,4,4,0,1,1,0,1,Anxiety and Depression
+25,Female,Graduate,Widowed,In Relation,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,3,3,3,3,1,0,1,0,1,Anxiety and Depression
+30,Female,Post-Graduate,Live in,In Relation,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,1,1,1,1,1,1,1,1,Normal
+15,Female,High School,Widowed,In Relation,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,1,1,1,1,1,1,1,1,0,Stress
+15,Female,High School,Married,Not in any Relation,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,0,0,0,0,0,1,0,1,0,Anxiety
+21,Male,Graduate,Single,In Relation,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,1,1,1,1,1,1,0,1,1,Normal
+43,Female,Graduate,Single,Broke Up,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,4,4,4,4,1,1,0,1,1,Depression
+40,Female,Post-Graduate,Divorced,In Relation,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,4,4,4,4,1,1,1,1,1,Normal
+28,Male,High School,Married,In Relation,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,4,4,4,4,1,0,1,1,1,Normal
+20,Male,Graduate,Divorced,Broke Up,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,4,4,4,4,1,1,1,1,1,Stress
+23,Male,High School,Divorced,In Relation,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,2,2,2,2,1,1,1,1,1,Normal
+45,Male,High School,Widowed,In Relation,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,0,0,0,0,1,0,1,0,1,Depression
+16,Male,College,Divorced,Broke Up,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,1,1,1,1,1,1,1,1,0,Normal
+20,Female,Post-Graduate,Married,Not in any Relation,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,2,2,2,2,0,1,1,1,1,Normal
+18,Male,Post-Graduate,Divorced,Broke Up,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,2,2,2,2,1,1,1,1,0,Anxiety and Stress
+24,Male,Graduate,Live in,In Relation,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,4,4,4,4,0,1,0,1,1,Anxiety
+33,Male,Post-Graduate,Live in,Broke Up,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,2,2,2,2,1,1,1,1,1,Normal
+21,Female,Graduate,Widowed,Not in any Relation,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,4,4,4,4,1,1,1,1,1,Normal
+44,Female,Graduate,Widowed,Not in any Relation,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,1,1,1,1,1,1,1,1,1,Normal
+43,Female,High School,Live in,Not in any Relation,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,3,3,3,1,1,0,1,0,Anxiety
+42,Female,Graduate,Live in,In Relation,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,1,1,1,1,1,1,0,1,Normal
+48,Male,High School,Live in,Not in any Relation,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,2,2,2,2,1,1,1,1,1,Normal
+26,Female,High School,Live in,In Relation,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,1,1,1,1,1,1,1,1,1,Stress
+32,Male,Post-Graduate,Divorced,Not in any Relation,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,2,2,2,2,1,1,1,1,0,Stress
+16,Female,Graduate,Single,Not in any Relation,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,4,4,4,4,0,1,0,1,0,Anxiety
+15,Female,Post-Graduate,Live in,Broke Up,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,4,4,4,4,1,0,1,1,0,Anxiety
+45,Female,Post-Graduate,Live in,Not in any Relation,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,0,0,0,0,0,1,0,1,0,Anxiety
+36,Female,High School,Single,Not in any Relation,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,3,3,3,3,1,0,1,0,1,Anxiety
+43,Female,Graduate,Divorced,Not in any Relation,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,1,1,1,1,1,1,1,1,1,Normal
+36,Female,Graduate,Single,In Relation,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,4,4,4,4,1,1,0,1,0,Anxiety
+41,Male,College,Married,Broke Up,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,4,4,4,4,1,0,1,0,1,Anxiety and Stress
+36,Male,Graduate,Married,In Relation,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,0,0,0,0,1,0,1,1,0,Anxiety
+39,Female,Graduate,Divorced,Broke Up,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,0,0,0,1,0,1,0,1,Anxiety and Depression
+17,Female,Graduate,Live in,In Relation,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,4,4,4,4,1,1,1,1,1,Normal
+36,Female,College,Widowed,Broke Up,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,4,4,4,4,1,0,1,0,1,Anxiety and Depression
+29,Female,Post-Graduate,Married,In Relation,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,0,0,0,0,1,1,0,1,Anxiety
+35,Male,Graduate,Married,Broke Up,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,3,3,3,1,1,0,1,0,Anxiety
+44,Male,High School,Widowed,Broke Up,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,4,4,4,4,1,1,1,1,1,Stress
+16,Female,Post-Graduate,Single,In Relation,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,1,1,1,1,1,1,1,1,1,Depression and Stress
+17,Male,Post-Graduate,Divorced,Not in any Relation,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,0,0,0,0,0,1,0,1,0,Anxiety
+34,Female,Post-Graduate,Single,Not in any Relation,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,3,3,3,3,1,0,1,0,1,Anxiety and Stress
+49,Male,High School,Widowed,Not in any Relation,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,1,1,1,1,1,1,0,1,1,Normal
+49,Male,College,Widowed,Broke Up,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,4,4,4,4,0,1,0,1,0,Anxiety
+20,Male,Graduate,Widowed,Broke Up,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,4,4,4,4,1,0,1,0,1,Anxiety and Stress
+42,Male,College,Live in,Not in any Relation,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,4,4,4,4,1,1,1,0,1,Normal
+32,Male,College,Live in,Broke Up,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,1,1,1,1,1,1,0,1,1,Stress
+20,Male,Graduate,Single,Not in any Relation,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,4,4,4,4,1,1,1,1,1,Normal
+44,Female,High School,Single,In Relation,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,3,3,3,3,0,1,0,1,1,Anxiety
+32,Female,High School,Married,Broke Up,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,0,0,0,1,0,1,0,1,Anxiety and Stress
+26,Female,Post-Graduate,Live in,In Relation,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,4,4,4,4,1,1,1,1,1,Normal
+34,Female,High School,Divorced,Broke Up,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,4,4,4,4,0,1,0,1,1,Anxiety
+16,Male,College,Divorced,In Relation,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,1,1,1,1,1,1,0,1,1,Normal
+24,Male,College,Widowed,Not in any Relation,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,1,1,1,1,1,1,1,1,1,Anxiety
+45,Female,Graduate,Widowed,In Relation,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,2,2,2,2,1,1,1,1,1,Normal
+32,Male,Graduate,Live in,Broke Up,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,1,1,1,1,0,1,1,1,Depression and Stress
+37,Male,Post-Graduate,Single,In Relation,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,0,0,0,0,0,1,0,1,0,Anxiety
+24,Female,Post-Graduate,Live in,In Relation,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,4,4,4,4,1,1,0,1,0,Anxiety
+45,Female,Graduate,Single,Not in any Relation,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,4,4,4,4,1,0,1,0,1,Anxiety
+22,Female,Graduate,Live in,Not in any Relation,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,4,4,4,4,1,0,1,1,0,Anxiety
+42,Female,College,Married,Not in any Relation,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,1,1,1,1,1,1,1,1,0,Normal
+15,Male,Post-Graduate,Divorced,In Relation,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,4,4,4,4,1,0,1,0,1,Anxiety
+16,Female,Post-Graduate,Married,Not in any Relation,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,2,2,2,2,1,1,1,0,1,Stress
+39,Male,High School,Widowed,In Relation,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,0,0,0,0,0,1,0,1,1,Anxiety
+46,Female,Post-Graduate,Widowed,In Relation,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,4,4,4,4,1,1,1,1,1,Depression
+39,Female,College,Single,Broke Up,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,3,3,3,3,1,0,1,0,1,Anxiety and Stress
+33,Male,Post-Graduate,Divorced,Broke Up,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,0,0,0,0,1,0,1,1,0,Anxiety
+42,Female,High School,Widowed,Broke Up,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,4,4,4,4,1,1,1,1,1,Normal
+17,Female,Post-Graduate,Married,Not in any Relation,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,0,0,0,0,0,1,0,1,1,Anxiety
+30,Female,High School,Divorced,Not in any Relation,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,3,3,3,3,1,0,1,0,1,Anxiety and Stress
+27,Male,College,Married,Not in any Relation,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,4,4,4,4,1,1,0,1,0,Anxiety
+25,Male,Graduate,Live in,In Relation,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,4,4,4,4,0,1,0,1,0,Anxiety
+22,Male,Graduate,Widowed,Broke Up,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,1,1,1,1,1,1,1,1,Depression
+49,Female,Post-Graduate,Widowed,Not in any Relation,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,0,0,0,0,1,0,1,0,1,Anxiety
+40,Female,Graduate,Widowed,Not in any Relation,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,4,4,4,4,0,1,1,1,1,Depression
+29,Male,High School,Widowed,Broke Up,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,4,4,4,4,1,1,1,1,1,Stress
+16,Male,High School,Single,Broke Up,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,4,4,4,4,0,1,0,1,1,Anxiety
+33,Female,Post-Graduate,Single,Broke Up,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,4,4,4,4,1,0,1,0,1,Anxiety
+39,Female,College,Single,Broke Up,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,4,4,4,4,1,0,1,1,1,Stress
+32,Male,College,Single,Not in any Relation,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,4,4,4,4,1,0,1,0,1,Anxiety
+30,Male,Post-Graduate,Divorced,In Relation,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,0,0,0,0,1,1,0,1,Anxiety
+36,Female,Graduate,Divorced,In Relation,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,4,4,4,4,1,0,1,0,1,Anxiety and Stress
+44,Female,College,Divorced,Broke Up,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,0,0,0,0,1,1,0,1,Anxiety
+28,Female,Graduate,Divorced,Broke Up,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,2,2,2,2,1,1,1,1,1,Depression
+30,Male,Graduate,Widowed,Not in any Relation,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,4,4,4,4,1,1,0,1,0,Anxiety
+41,Female,Post-Graduate,Widowed,In Relation,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,4,4,4,4,1,0,1,0,1,Anxiety and Depression
+29,Male,Graduate,Live in,Broke Up,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,2,2,2,2,1,1,1,1,1,Normal
+34,Male,High School,Single,In Relation,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,0,0,0,0,1,0,1,0,1,Depression
+15,Male,Graduate,Divorced,Not in any Relation,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,3,3,3,3,1,0,1,0,1,Anxiety
+45,Male,Graduate,Divorced,Not in any Relation,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,4,4,4,4,1,1,0,1,1,Normal
+30,Female,High School,Married,In Relation,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,1,1,1,1,1,1,1,1,1,Normal
+37,Male,Graduate,Single,In Relation,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,0,0,0,0,0,1,0,1,0,Anxiety
+27,Male,College,Married,Not in any Relation,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,2,2,2,2,1,0,1,1,1,Depression
+30,Male,High School,Single,In Relation,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,4,4,4,4,0,1,0,1,0,Anxiety
+20,Male,Graduate,Divorced,Broke Up,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,1,1,1,1,1,1,1,1,1,Normal
+41,Male,College,Divorced,Broke Up,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,1,1,1,1,1,1,1,1,1,Normal
+38,Male,College,Single,Broke Up,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,1,1,1,1,0,1,1,1,Depression
+36,Male,Graduate,Live in,Not in any Relation,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,1,1,1,1,1,1,1,1,0,Normal
+27,Male,Graduate,Widowed,In Relation,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,4,4,4,4,0,1,1,1,1,Normal
+37,Male,College,Divorced,Not in any Relation,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,4,4,4,4,1,0,1,1,1,Stress
+50,Male,Graduate,Live in,Broke Up,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,4,4,4,4,1,1,1,0,1,Normal
+17,Male,College,Single,Not in any Relation,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,1,1,1,1,1,1,1,1,Depression
+45,Female,College,Single,In Relation,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,4,4,4,4,0,1,0,1,0,Anxiety
+32,Male,College,Widowed,In Relation,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,2,2,2,2,1,1,1,1,0,Normal
+21,Male,Graduate,Divorced,Broke Up,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,4,4,4,4,1,1,1,1,1,Normal
+30,Female,College,Married,Broke Up,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,4,4,4,4,1,0,1,1,0,Anxiety
+27,Female,College,Divorced,In Relation,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,4,4,4,4,1,1,0,1,1,Normal
+43,Female,Post-Graduate,Live in,Broke Up,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,3,3,3,3,0,1,0,1,1,Anxiety
+21,Female,Graduate,Single,Not in any Relation,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,4,4,4,4,0,1,1,0,1,Anxiety
+23,Female,Graduate,Widowed,Broke Up,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,4,4,4,4,1,0,1,0,1,Anxiety and Depression
+20,Female,Post-Graduate,Married,Not in any Relation,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,4,4,4,4,1,1,0,1,0,Anxiety
+32,Female,High School,Live in,In Relation,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,3,3,3,3,1,0,1,0,1,Anxiety
+49,Female,Post-Graduate,Married,Not in any Relation,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,2,2,2,2,1,1,1,1,0,Depression
+50,Male,College,Divorced,In Relation,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,0,0,0,0,0,1,0,1,0,Anxiety
+21,Male,College,Widowed,In Relation,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,4,4,4,4,0,1,0,1,1,Anxiety
+48,Male,Graduate,Single,In Relation,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,1,1,1,1,0,1,1,1,Stress
+28,Male,Graduate,Single,Broke Up,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,4,4,4,4,1,0,1,0,1,Anxiety
+38,Male,High School,Divorced,Broke Up,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,4,4,4,4,1,0,1,0,1,Anxiety and Depression
+22,Female,Post-Graduate,Married,In Relation,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,3,3,3,0,1,0,1,0,Depression
+42,Male,Graduate,Single,Not in any Relation,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,4,4,4,4,0,1,1,1,1,Anxiety and Stress
+30,Female,College,Divorced,In Relation,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,3,3,3,3,1,0,1,0,1,Anxiety
+44,Female,College,Divorced,In Relation,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,1,1,1,1,1,1,1,1,1,Anxiety and Depression
+25,Male,Graduate,Married,Not in any Relation,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,0,0,0,0,1,0,1,1,0,Anxiety
+46,Female,High School,Widowed,Broke Up,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,1,1,1,1,0,1,1,1,Normal
+38,Male,High School,Married,In Relation,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,4,4,4,4,1,0,1,0,1,Depression
+28,Female,Graduate,Widowed,Not in any Relation,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,0,0,0,0,1,0,1,1,0,Anxiety
+40,Male,Graduate,Live in,Not in any Relation,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,4,4,4,4,1,1,1,1,1,Stress
+38,Male,Graduate,Married,Not in any Relation,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,1,1,1,1,1,1,0,1,1,Normal
+38,Female,College,Widowed,In Relation,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,4,4,4,4,1,1,1,1,1,Stress
+46,Female,High School,Married,In Relation,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,1,1,1,1,1,1,1,1,0,Normal
+39,Female,College,Divorced,Not in any Relation,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,1,1,1,1,1,1,0,1,Depression
+15,Male,Post-Graduate,Divorced,In Relation,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,1,1,1,1,1,1,1,1,1,Normal
+41,Male,High School,Live in,Broke Up,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,4,4,4,4,1,1,1,1,0,Normal
+45,Female,Graduate,Live in,Broke Up,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,1,1,1,1,1,1,1,1,1,Normal
+43,Male,College,Widowed,Not in any Relation,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,1,1,1,1,1,1,0,1,1,Depression
+24,Male,College,Divorced,Not in any Relation,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,1,1,1,1,1,1,1,1,0,Normal
+17,Male,High School,Single,Broke Up,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,1,1,1,1,1,1,0,1,Normal
+42,Female,High School,Live in,Not in any Relation,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,4,4,4,4,1,1,0,1,0,Anxiety
+26,Male,Post-Graduate,Widowed,Not in any Relation,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,1,1,1,1,1,1,0,1,Normal
+25,Male,College,Married,Broke Up,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,1,1,1,1,1,1,1,1,1,Normal
+21,Female,College,Live in,Not in any Relation,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,4,4,4,4,1,1,1,1,0,Stress
+41,Female,High School,Married,In Relation,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,0,0,0,0,1,0,1,0,1,Depression
+45,Male,College,Divorced,In Relation,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,0,0,0,0,1,1,0,1,0,Anxiety
+41,Female,Post-Graduate,Widowed,Broke Up,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,4,4,4,4,0,1,0,1,0,Anxiety
+41,Female,Post-Graduate,Divorced,In Relation,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,1,1,1,1,1,1,1,1,Normal
+20,Male,Post-Graduate,Divorced,Broke Up,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,3,3,3,1,1,0,1,0,Anxiety
+24,Male,Graduate,Married,In Relation,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,2,2,2,2,1,0,1,1,1,Normal
+37,Female,High School,Widowed,In Relation,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,1,1,1,1,1,1,0,1,1,Normal
+33,Female,Graduate,Live in,In Relation,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,0,0,0,0,1,1,0,1,Anxiety
+38,Female,High School,Divorced,In Relation,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,4,4,4,4,0,1,1,0,1,Anxiety
+44,Male,College,Live in,In Relation,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,0,0,0,1,0,1,0,1,Anxiety and Depression
+31,Female,Graduate,Married,Not in any Relation,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,0,0,0,0,1,1,0,1,Anxiety
+22,Female,College,Widowed,Broke Up,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,0,0,0,0,0,1,0,1,0,Anxiety
+45,Female,Post-Graduate,Married,Broke Up,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,1,1,1,1,0,1,1,1,1,Stress
+44,Female,College,Widowed,In Relation,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,4,4,4,4,1,0,1,0,1,Anxiety and Stress
+39,Male,High School,Widowed,Not in any Relation,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,2,2,2,2,1,0,1,1,1,Depression
+40,Male,High School,Single,Not in any Relation,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,4,4,4,4,1,0,1,0,1,Anxiety and Depression
+24,Female,College,Live in,Broke Up,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,1,1,1,1,1,1,1,1,1,Normal
+17,Male,Post-Graduate,Divorced,Not in any Relation,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,1,1,1,1,0,1,1,1,Normal
+41,Male,Post-Graduate,Married,Broke Up,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,4,4,4,4,1,1,0,1,0,Anxiety
+25,Female,Post-Graduate,Single,Broke Up,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,1,1,1,1,1,1,1,1,1,Normal
+49,Female,College,Live in,Broke Up,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,0,0,0,0,1,1,0,1,Anxiety
+17,Male,College,Single,Not in any Relation,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,0,0,0,0,1,0,1,0,1,Anxiety
+25,Male,Graduate,Divorced,Not in any Relation,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,0,0,0,0,0,1,0,1,1,Anxiety
+47,Male,Graduate,Married,Not in any Relation,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,4,4,4,4,0,1,0,1,0,Anxiety
+18,Female,College,Married,Not in any Relation,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,1,1,1,1,1,1,1,1,0,Anxiety and Depression
+27,Male,Post-Graduate,Divorced,Not in any Relation,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,4,4,4,4,1,1,0,1,1,Normal
+22,Female,College,Single,Not in any Relation,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,4,4,4,4,0,1,1,0,1,Anxiety
+46,Male,Post-Graduate,Single,Broke Up,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,4,4,4,4,1,0,1,0,1,Anxiety
+21,Male,College,Divorced,Not in any Relation,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,2,2,2,2,1,1,1,0,1,Normal
+20,Male,Post-Graduate,Married,Broke Up,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,4,4,4,4,1,0,1,1,0,Anxiety
+26,Female,Post-Graduate,Married,Not in any Relation,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,4,4,4,4,1,1,1,0,1,Normal
+23,Male,College,Divorced,Broke Up,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,3,3,3,3,0,1,0,1,1,Anxiety
+32,Female,Graduate,Live in,Broke Up,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,1,1,1,1,0,1,1,1,1,Normal
+27,Male,Graduate,Married,Broke Up,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,4,4,4,4,1,1,1,1,1,Stress
+45,Male,Graduate,Single,In Relation,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,0,0,0,0,1,1,0,1,Anxiety
+47,Male,College,Divorced,Broke Up,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,2,2,2,2,1,1,0,1,1,Normal
+49,Female,College,Married,Not in any Relation,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,4,4,4,4,1,0,1,0,1,Anxiety and Depression
+15,Male,College,Divorced,In Relation,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,0,0,0,0,0,1,0,1,0,Anxiety
+25,Female,College,Live in,Broke Up,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,1,1,1,1,1,1,1,1,0,Depression
+40,Female,Graduate,Married,Not in any Relation,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,4,4,4,4,1,1,1,1,1,Normal
+42,Male,College,Live in,In Relation,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,4,4,4,4,1,0,1,1,0,Anxiety
+36,Male,Graduate,Widowed,In Relation,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,1,1,1,1,1,1,1,1,1,Stress
+28,Male,Graduate,Widowed,In Relation,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,4,4,4,4,0,1,1,0,1,Anxiety
+49,Female,Graduate,Live in,In Relation,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,0,0,0,1,0,1,0,1,Anxiety and Depression
+37,Female,Post-Graduate,Married,Broke Up,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,1,1,1,1,1,1,1,1,1,Normal
+19,Male,High School,Single,Broke Up,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,4,4,4,4,0,1,0,1,1,Anxiety
+16,Female,College,Divorced,Not in any Relation,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,0,0,0,0,1,1,0,1,0,Anxiety
+22,Male,College,Live in,Not in any Relation,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,4,4,4,4,1,1,1,1,0,Normal
+16,Male,High School,Married,Not in any Relation,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,2,2,2,2,1,0,1,1,1,Depression
+44,Male,Graduate,Widowed,In Relation,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,3,3,3,3,1,0,1,0,1,Anxiety and Depression
+25,Female,Post-Graduate,Divorced,Not in any Relation,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,3,3,3,3,0,1,1,0,1,Anxiety
+47,Female,Graduate,Single,In Relation,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,3,3,3,1,1,0,1,0,Anxiety
+42,Male,Graduate,Single,In Relation,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,2,2,2,2,1,1,1,0,1,Normal
+46,Female,High School,Live in,Broke Up,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,4,4,4,4,1,1,0,1,0,Anxiety
+19,Male,High School,Live in,In Relation,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,3,3,3,3,1,0,1,0,1,Anxiety and Stress
+25,Female,Post-Graduate,Divorced,Broke Up,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,0,0,0,0,1,0,1,1,0,Anxiety
+44,Male,College,Divorced,Not in any Relation,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,4,4,4,4,0,1,0,1,0,Anxiety
+39,Male,College,Widowed,Broke Up,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,4,4,4,4,1,1,1,1,1,Normal
+34,Male,Graduate,Divorced,Not in any Relation,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,4,4,4,4,0,1,1,0,1,Anxiety
+42,Female,Post-Graduate,Married,In Relation,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,3,3,3,3,1,0,1,0,1,Anxiety and Stress
+43,Female,High School,Married,Broke Up,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,1,1,1,1,1,1,0,1,Normal
+36,Female,High School,Married,In Relation,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,4,4,4,4,1,0,1,0,1,Anxiety and Depression
+34,Female,Graduate,Widowed,Broke Up,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,4,4,4,4,1,1,1,1,1,Normal
+43,Female,High School,Married,Not in any Relation,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,1,1,1,1,1,1,1,1,1,Normal
+26,Male,Post-Graduate,Live in,In Relation,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,2,2,2,2,1,1,1,1,0,Normal
+35,Female,Post-Graduate,Live in,In Relation,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,4,4,4,4,0,1,0,1,0,Anxiety
+50,Male,High School,Married,Broke Up,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,0,0,0,0,1,1,0,1,Anxiety
+34,Male,High School,Married,Broke Up,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,4,4,4,4,1,0,1,0,1,Anxiety
+26,Female,College,Widowed,Not in any Relation,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,2,2,2,2,1,1,1,1,1,Normal
+17,Male,Graduate,Married,Not in any Relation,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,2,2,2,2,1,0,1,1,1,Normal
+43,Female,Graduate,Live in,In Relation,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,0,0,0,0,1,0,1,0,1,Anxiety
+25,Female,High School,Widowed,Broke Up,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,2,2,2,2,1,0,1,1,1,Normal
+28,Male,High School,Single,In Relation,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,4,4,4,4,0,1,0,1,0,Anxiety
+30,Female,Graduate,Married,Not in any Relation,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,4,4,4,4,1,1,1,0,1,Normal
+19,Female,Post-Graduate,Live in,In Relation,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,1,1,1,1,1,1,0,1,Stress
+42,Male,Post-Graduate,Single,Not in any Relation,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,0,0,0,0,1,1,0,1,0,Anxiety
+21,Male,High School,Widowed,Broke Up,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,0,0,0,0,0,1,0,1,0,Anxiety
+26,Female,Post-Graduate,Live in,In Relation,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,4,4,4,4,0,1,1,0,1,Anxiety
+32,Female,Post-Graduate,Widowed,Broke Up,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,0,0,0,0,0,1,0,1,1,Anxiety
+46,Male,High School,Divorced,Broke Up,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,2,2,2,2,1,1,1,1,1,Normal
+37,Female,Post-Graduate,Married,Broke Up,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,1,1,1,1,0,1,1,1,Normal
+35,Male,College,Live in,In Relation,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,0,0,0,0,0,1,0,1,1,Anxiety
+21,Male,College,Divorced,Not in any Relation,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,3,3,3,3,1,0,1,0,1,Anxiety
+36,Female,Graduate,Married,Broke Up,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,2,2,2,2,1,1,0,1,1,Depression
+35,Male,Post-Graduate,Widowed,In Relation,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,1,1,1,1,1,1,1,1,0,Normal
+50,Female,College,Single,Broke Up,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,4,4,4,4,1,0,1,0,1,Anxiety
+49,Male,Graduate,Married,Broke Up,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,1,1,1,1,0,1,1,1,1,Normal
+20,Female,College,Live in,Broke Up,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,0,0,0,0,1,1,0,1,0,Anxiety
+39,Male,College,Widowed,Broke Up,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,4,4,4,4,1,1,1,0,1,Normal
+30,Female,Post-Graduate,Widowed,Not in any Relation,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,0,0,0,0,1,1,0,1,Anxiety
+33,Male,Graduate,Divorced,In Relation,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,0,0,0,0,0,1,0,1,0,Anxiety
+23,Male,Graduate,Live in,Broke Up,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,1,1,1,1,1,1,0,1,1,Normal
+41,Female,Post-Graduate,Divorced,Broke Up,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,1,1,1,1,1,1,1,1,0,Stress
+47,Female,Graduate,Divorced,Not in any Relation,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,3,3,3,3,0,1,0,1,1,Anxiety
+34,Male,College,Live in,Not in any Relation,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,4,4,4,4,1,0,1,0,1,Anxiety
+48,Female,College,Widowed,Broke Up,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,1,1,1,1,0,1,1,1,1,Normal
+34,Male,High School,Single,Broke Up,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,4,4,4,4,1,0,1,1,0,Anxiety
+22,Female,Post-Graduate,Divorced,In Relation,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,1,1,1,1,1,1,1,1,Normal
+15,Male,Post-Graduate,Live in,Broke Up,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,4,4,4,4,0,1,1,0,1,Anxiety
+36,Female,Post-Graduate,Divorced,Broke Up,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,4,4,4,4,1,1,0,1,1,Anxiety and Stress
+50,Female,Graduate,Widowed,Broke Up,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,1,1,1,1,1,1,0,1,1,Normal
+21,Male,Graduate,Single,Not in any Relation,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,2,2,2,2,1,1,1,1,0,Normal
+43,Female,Graduate,Live in,Not in any Relation,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,4,4,4,4,0,1,0,1,0,Anxiety
+19,Male,Graduate,Married,Broke Up,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,4,4,4,4,1,0,1,1,0,Anxiety
+28,Female,Graduate,Widowed,Not in any Relation,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,1,1,1,1,1,1,0,1,Normal
+31,Male,College,Divorced,In Relation,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,3,3,3,1,1,0,1,0,Anxiety
+25,Male,Post-Graduate,Live in,Broke Up,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,0,0,0,0,0,1,0,1,0,Anxiety
+43,Male,Graduate,Single,Broke Up,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,4,4,4,4,1,1,1,0,1,Normal
+43,Male,High School,Divorced,Broke Up,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,2,2,2,2,1,1,1,0,1,Depression
+41,Female,Graduate,Single,Broke Up,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,0,0,0,0,1,1,0,1,0,Anxiety
+47,Female,College,Single,Not in any Relation,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,2,2,2,2,1,1,1,1,1,Normal
+45,Female,Graduate,Widowed,Broke Up,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,1,1,1,1,1,1,1,1,0,Normal
+19,Male,Graduate,Widowed,In Relation,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,4,4,4,4,1,0,1,0,1,Anxiety and Depression
+33,Male,Post-Graduate,Single,In Relation,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,2,2,2,2,1,0,1,1,1,Normal
+48,Male,Graduate,Divorced,Broke Up,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,0,0,0,1,0,1,0,1,Anxiety and Stress
+25,Male,High School,Widowed,Not in any Relation,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,4,4,4,4,1,0,1,0,1,Anxiety and Stress
+38,Male,Post-Graduate,Married,Not in any Relation,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,0,0,0,0,1,0,1,0,1,Anxiety
+49,Male,High School,Married,Broke Up,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,1,1,1,1,1,1,1,1,0,Normal
+46,Male,Post-Graduate,Live in,In Relation,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,4,4,4,4,1,0,1,0,1,Anxiety and Stress
+49,Male,Graduate,Divorced,In Relation,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,2,2,2,2,1,1,0,1,1,Normal
+43,Female,Graduate,Single,Not in any Relation,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,4,4,4,4,1,0,1,0,1,Anxiety and Depression
+26,Male,College,Single,In Relation,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,4,4,4,4,0,1,1,0,1,Depression
+46,Male,Graduate,Single,Broke Up,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,4,4,4,4,0,1,0,1,1,Anxiety
+25,Female,Graduate,Divorced,In Relation,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,1,1,1,1,1,1,1,1,1,Normal
+28,Female,Graduate,Widowed,In Relation,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,4,4,4,4,1,0,1,0,1,Anxiety and Depression
+32,Male,Post-Graduate,Live in,Not in any Relation,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,0,0,0,1,0,1,0,1,Anxiety and Depression
+45,Female,High School,Live in,Not in any Relation,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,4,4,4,4,1,1,1,0,1,Normal
+15,Female,Post-Graduate,Divorced,Broke Up,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,4,4,4,4,0,1,1,0,1,Depression
+42,Male,High School,Widowed,In Relation,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,4,4,4,4,1,1,0,1,0,Anxiety
+35,Male,Graduate,Single,In Relation,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,0,0,0,0,1,1,0,1,Anxiety
+42,Male,High School,Widowed,Broke Up,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,3,3,3,3,1,0,1,0,1,Anxiety
+38,Male,Graduate,Live in,Broke Up,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,2,2,2,2,1,1,1,1,0,Depression
+24,Female,College,Divorced,In Relation,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,0,0,0,0,0,1,0,1,0,Anxiety
+47,Female,High School,Single,Not in any Relation,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,4,4,4,4,0,1,0,1,0,Anxiety
+35,Female,Graduate,Widowed,Not in any Relation,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,4,4,4,4,1,0,1,0,1,Anxiety
+18,Male,Post-Graduate,Live in,In Relation,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,1,1,1,1,1,1,1,1,Normal
+40,Male,College,Widowed,Broke Up,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,1,1,1,1,1,1,0,1,Stress
+21,Male,Graduate,Widowed,Not in any Relation,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,4,4,4,4,1,1,1,0,1,Normal
+22,Male,Post-Graduate,Divorced,In Relation,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,0,0,0,0,0,1,0,1,0,Anxiety
+44,Female,Graduate,Live in,Not in any Relation,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,2,2,2,2,1,1,0,1,1,Normal
+31,Male,Post-Graduate,Live in,Broke Up,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,3,3,3,3,1,0,1,0,1,Anxiety and Depression
+37,Male,Post-Graduate,Single,Not in any Relation,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,4,4,4,4,1,0,1,1,0,Anxiety
+40,Male,Graduate,Divorced,In Relation,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,0,0,0,0,1,0,1,1,0,Anxiety
+48,Female,Graduate,Widowed,Broke Up,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,1,1,1,1,1,1,1,1,1,Normal
+43,Female,College,Live in,In Relation,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,1,1,1,1,1,1,0,1,1,Depression
+17,Male,Post-Graduate,Single,In Relation,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,1,1,1,1,0,1,1,1,Depression and Stress
+34,Female,Graduate,Live in,Broke Up,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,0,0,0,0,1,0,1,0,1,Anxiety
+41,Female,College,Single,Not in any Relation,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,3,3,3,3,1,0,1,0,1,Anxiety
+16,Male,Graduate,Widowed,Not in any Relation,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,4,4,4,4,1,1,0,1,0,Anxiety
+20,Female,College,Widowed,In Relation,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,1,1,1,1,1,1,1,1,1,Normal
+20,Female,High School,Single,Broke Up,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,4,4,4,4,0,1,0,1,0,Anxiety
+20,Female,High School,Widowed,Not in any Relation,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,1,1,1,1,1,1,1,1,Normal
+50,Male,College,Live in,Broke Up,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,2,2,2,2,1,1,1,1,1,Stress
+18,Male,High School,Married,Not in any Relation,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,4,4,4,4,1,0,1,0,1,Anxiety and Depression
+45,Female,Graduate,Live in,In Relation,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,3,3,3,3,1,0,1,0,1,Anxiety and Depression
+36,Female,Graduate,Single,Not in any Relation,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,1,1,1,1,0,1,1,1,Depression and Stress
+31,Female,High School,Widowed,In Relation,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,2,2,2,2,1,1,1,1,1,Normal
+17,Female,Post-Graduate,Live in,Not in any Relation,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,4,4,4,4,0,1,0,1,1,Anxiety
+48,Male,College,Single,Not in any Relation,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,1,1,1,1,1,1,1,1,0,Normal
+34,Female,Post-Graduate,Single,In Relation,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,1,1,1,1,1,1,0,1,Normal
+49,Female,Post-Graduate,Live in,Broke Up,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,0,0,0,0,1,0,1,1,0,Anxiety
+37,Male,High School,Married,In Relation,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,3,3,3,3,0,1,0,1,1,Anxiety
+45,Female,College,Married,In Relation,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,0,0,0,1,0,1,0,1,Anxiety and Stress
+20,Female,High School,Divorced,Broke Up,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,2,2,2,2,0,1,1,1,1,Depression and Stress
+21,Female,College,Widowed,In Relation,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,3,3,3,3,0,1,0,1,1,Anxiety
+25,Female,High School,Single,In Relation,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,4,4,4,4,1,0,1,0,1,Anxiety and Depression
+25,Female,Post-Graduate,Divorced,In Relation,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,1,1,1,1,1,1,1,1,1,Depression and Stress
+50,Male,Post-Graduate,Live in,Broke Up,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,1,1,1,1,1,1,1,1,1,Depression
+28,Male,Post-Graduate,Married,Not in any Relation,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,4,4,4,4,1,0,1,0,1,Anxiety
+33,Male,Post-Graduate,Married,In Relation,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,1,1,1,1,1,1,0,1,1,Normal
+38,Male,Post-Graduate,Single,Not in any Relation,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,4,4,4,4,0,1,0,1,0,Anxiety
+18,Female,College,Single,Not in any Relation,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,4,4,4,4,0,1,0,1,0,Anxiety
+37,Male,College,Single,Not in any Relation,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,4,4,4,4,1,0,1,0,1,Anxiety and Stress
+48,Female,High School,Widowed,In Relation,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,2,2,2,2,0,1,1,1,1,Stress
+38,Male,High School,Widowed,Broke Up,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,1,1,1,1,0,1,1,1,1,Depression
+26,Male,Post-Graduate,Divorced,Broke Up,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,3,3,3,3,0,1,1,0,1,Anxiety
+31,Male,Graduate,Live in,Not in any Relation,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,4,4,4,4,0,1,0,1,0,Anxiety
+37,Female,College,Widowed,In Relation,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,4,4,4,4,1,0,1,0,1,Anxiety and Depression
+25,Female,Graduate,Widowed,Broke Up,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,4,4,4,4,0,1,1,0,1,Anxiety
+16,Male,Graduate,Divorced,Broke Up,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,2,2,2,2,1,1,1,0,1,Stress
+35,Male,Graduate,Single,Broke Up,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,1,1,1,1,1,1,1,1,Depression
+36,Female,Graduate,Single,Broke Up,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,1,1,1,1,1,1,0,1,1,Normal
+20,Male,High School,Divorced,In Relation,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,4,4,4,4,0,1,1,1,1,Stress
+35,Female,Graduate,Divorced,Broke Up,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,2,2,2,2,1,1,1,1,1,Normal
+44,Female,High School,Single,Not in any Relation,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,3,3,3,1,1,0,1,0,Anxiety
+39,Female,Post-Graduate,Divorced,Broke Up,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,1,1,1,1,1,1,1,1,1,Stress
+24,Male,Graduate,Widowed,Broke Up,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,4,4,4,4,1,0,1,0,1,Anxiety
+26,Female,Post-Graduate,Single,Not in any Relation,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,4,4,4,4,1,1,0,1,0,Anxiety
+42,Female,Post-Graduate,Single,In Relation,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,3,3,3,1,1,0,1,0,Anxiety
+41,Female,High School,Widowed,Not in any Relation,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,4,4,4,4,1,0,1,0,1,Anxiety and Depression
+19,Female,Post-Graduate,Divorced,Broke Up,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,3,3,3,3,1,0,1,0,1,Anxiety
+50,Female,High School,Divorced,Not in any Relation,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,2,2,2,2,1,0,1,1,1,Normal
+20,Female,College,Single,In Relation,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,0,0,0,0,0,1,0,1,1,Anxiety
+22,Female,College,Widowed,Not in any Relation,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,2,2,2,2,0,1,1,1,1,Normal
+45,Male,Post-Graduate,Married,Broke Up,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,3,3,3,0,1,0,1,0,Anxiety
+50,Female,Post-Graduate,Married,Not in any Relation,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,0,0,0,1,0,1,0,1,Anxiety and Stress
+25,Male,College,Live in,In Relation,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,0,0,0,0,0,1,0,1,1,Anxiety
+25,Female,Graduate,Divorced,Broke Up,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,1,1,1,1,0,1,1,1,1,Normal
+43,Female,Graduate,Married,In Relation,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,4,4,4,4,1,0,1,0,1,Anxiety and Depression
+25,Male,College,Married,Not in any Relation,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,0,0,0,0,0,1,0,1,0,Anxiety
+35,Female,High School,Widowed,Broke Up,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,1,1,1,1,1,1,0,1,1,Normal
+16,Female,High School,Single,Not in any Relation,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,1,1,1,1,1,1,1,1,1,Stress
+45,Male,College,Single,Not in any Relation,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,4,4,4,4,1,0,1,0,1,Anxiety
+27,Male,High School,Married,In Relation,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,3,3,3,3,0,1,1,0,1,Anxiety
+17,Male,High School,Widowed,In Relation,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,4,4,4,4,0,1,0,1,1,Anxiety
+40,Female,High School,Widowed,In Relation,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,1,1,1,1,1,1,1,1,Normal
+45,Female,High School,Single,In Relation,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,0,0,0,0,0,1,0,1,0,Anxiety
+27,Female,Graduate,Divorced,In Relation,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,3,3,3,3,0,1,0,1,1,Anxiety
+33,Female,College,Divorced,Not in any Relation,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,4,4,4,4,1,0,1,1,0,Anxiety
+47,Female,High School,Live in,In Relation,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,4,4,4,4,1,0,1,0,1,Anxiety and Depression
+31,Female,College,Live in,Broke Up,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,4,4,4,4,1,0,1,0,1,Anxiety and Depression
+24,Female,High School,Widowed,Not in any Relation,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,0,0,0,0,0,1,0,1,1,Anxiety
+23,Male,Post-Graduate,Live in,Broke Up,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,4,4,4,4,1,0,1,0,1,Anxiety and Depression
+23,Female,Post-Graduate,Married,Broke Up,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,4,4,4,4,1,0,1,0,1,Anxiety
+42,Female,Graduate,Single,In Relation,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,4,4,4,4,1,1,1,1,1,Stress
+42,Male,Graduate,Live in,Broke Up,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,1,1,1,1,1,1,1,1,1,Normal
+18,Male,Graduate,Divorced,In Relation,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,4,4,4,4,1,0,1,1,0,Anxiety
+16,Female,Post-Graduate,Single,Broke Up,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,1,1,1,1,1,1,0,1,Normal
+40,Male,College,Live in,Broke Up,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,3,3,3,1,0,1,1,0,Anxiety
+19,Female,High School,Single,Not in any Relation,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,0,0,0,0,1,0,1,0,1,Anxiety
+32,Male,Graduate,Divorced,In Relation,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,1,1,1,1,1,1,1,1,1,Normal
+49,Male,College,Live in,Broke Up,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,0,0,0,1,0,1,0,1,Anxiety and Stress
+46,Male,College,Married,Broke Up,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,1,1,1,1,1,1,1,1,0,Normal
+15,Male,Graduate,Live in,Broke Up,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,1,1,1,1,0,1,1,1,Normal
+43,Male,High School,Widowed,In Relation,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,1,1,1,1,1,1,0,1,Normal
+50,Female,Post-Graduate,Live in,In Relation,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,1,1,1,1,1,1,1,1,1,Depression and Stress
+20,Male,Post-Graduate,Married,Broke Up,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,1,1,1,1,1,1,1,1,0,Normal
+25,Female,High School,Single,Broke Up,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,4,4,4,4,1,1,1,1,1,Normal
+24,Female,Graduate,Single,Broke Up,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,4,4,4,4,1,1,0,1,1,Stress
+40,Female,High School,Single,Broke Up,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,4,4,4,4,1,0,1,0,1,Anxiety and Depression
+50,Male,Post-Graduate,Widowed,Broke Up,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,1,1,1,1,1,1,1,1,1,Normal
+27,Female,Graduate,Married,Not in any Relation,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,1,1,1,1,1,1,0,1,Depression
+46,Male,High School,Single,Not in any Relation,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,4,4,4,4,1,1,1,1,1,Normal
+23,Female,High School,Divorced,Broke Up,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,1,1,1,1,1,1,0,1,Normal
+46,Female,High School,Married,Broke Up,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,4,4,4,4,1,1,1,0,1,Depression and Stress
+42,Male,Post-Graduate,Divorced,Broke Up,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,0,0,0,0,0,1,0,1,1,Anxiety
+47,Female,Graduate,Married,In Relation,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,1,1,1,1,1,1,1,1,1,Depression
+42,Male,Graduate,Divorced,Not in any Relation,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,1,1,1,1,1,1,1,1,0,Normal
+43,Female,College,Divorced,Not in any Relation,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,1,1,1,1,1,1,0,1,1,Anxiety
+26,Female,Graduate,Divorced,In Relation,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,4,4,4,4,1,1,1,1,1,Normal
+21,Female,College,Divorced,In Relation,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,2,2,2,2,0,1,1,1,1,Normal
+16,Male,Post-Graduate,Widowed,Not in any Relation,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,4,4,4,4,1,1,0,1,0,Anxiety
+18,Female,College,Married,Not in any Relation,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,2,2,2,2,1,0,1,1,1,Normal
+29,Female,College,Divorced,Not in any Relation,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,2,2,2,2,1,1,1,1,0,Normal
+23,Female,College,Widowed,Not in any Relation,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,4,4,4,4,1,0,1,1,1,Normal
+16,Male,Graduate,Divorced,Broke Up,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,1,1,1,1,1,1,1,1,0,Normal
+40,Female,College,Divorced,Broke Up,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,4,4,4,4,1,1,1,1,1,Stress
+35,Female,College,Divorced,In Relation,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,4,4,4,4,0,1,0,1,1,Anxiety
+15,Male,Post-Graduate,Single,In Relation,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,4,4,4,4,1,0,1,0,1,Anxiety
+17,Female,Post-Graduate,Live in,Not in any Relation,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,4,4,4,4,0,1,0,1,1,Anxiety
+16,Female,College,Divorced,Not in any Relation,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,3,3,3,3,1,0,1,0,1,Anxiety and Stress
+45,Female,Graduate,Live in,Not in any Relation,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,1,1,1,1,1,1,1,1,0,Normal
+37,Male,Graduate,Single,Broke Up,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,1,1,1,1,1,1,1,1,1,Depression
+23,Female,College,Single,Not in any Relation,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,3,3,3,3,0,1,0,1,0,Anxiety
+22,Male,College,Single,Not in any Relation,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,1,1,1,1,1,1,1,1,Depression
+47,Female,Post-Graduate,Widowed,Broke Up,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,0,0,0,1,0,1,0,1,Anxiety and Depression
+43,Female,College,Widowed,In Relation,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,2,2,2,2,1,1,1,1,1,Depression
+32,Male,Post-Graduate,Single,In Relation,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,4,4,4,4,1,0,1,1,0,Anxiety
+45,Male,College,Divorced,In Relation,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,4,4,4,4,1,0,1,0,1,Anxiety and Stress
+26,Male,High School,Divorced,In Relation,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,1,1,1,1,0,1,1,1,Normal
+34,Male,Graduate,Live in,In Relation,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,2,2,2,2,1,0,1,1,1,Normal
+27,Female,High School,Live in,Not in any Relation,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,1,1,1,1,1,1,1,1,0,Stress
+50,Female,Post-Graduate,Widowed,Not in any Relation,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,1,1,1,1,1,1,1,1,0,Stress
+29,Male,College,Single,Broke Up,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,3,3,3,3,1,0,1,0,1,Anxiety and Depression
+15,Female,College,Single,In Relation,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,0,0,0,0,0,1,0,1,1,Anxiety
+50,Male,Graduate,Single,Not in any Relation,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,2,2,2,2,1,1,1,0,1,Normal
+41,Male,College,Live in,Broke Up,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,0,0,0,1,0,1,0,1,Anxiety and Depression
+27,Female,Graduate,Married,In Relation,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,0,0,0,1,0,1,0,1,Anxiety and Stress
+41,Male,Post-Graduate,Single,Broke Up,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,4,4,4,4,1,0,1,0,1,Anxiety and Stress
+41,Female,Post-Graduate,Widowed,Broke Up,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,2,2,2,2,1,1,1,1,1,Normal
+40,Female,Graduate,Married,Broke Up,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,4,4,4,4,0,1,1,1,1,Normal
+29,Male,College,Divorced,Not in any Relation,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,2,2,2,2,1,1,1,1,1,Normal
+38,Male,High School,Divorced,Broke Up,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,1,1,1,1,1,1,1,1,1,Normal
+22,Female,Post-Graduate,Single,Broke Up,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,4,4,4,4,1,0,1,0,1,Anxiety and Depression
+27,Male,High School,Single,In Relation,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,3,3,3,0,1,0,1,0,Anxiety
+17,Male,College,Married,Not in any Relation,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,2,2,2,2,0,1,1,1,1,Normal
+50,Female,High School,Divorced,Broke Up,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,4,4,4,4,1,1,1,1,1,Normal
+48,Female,Post-Graduate,Single,Not in any Relation,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,4,4,4,4,0,1,1,1,1,Stress
+28,Male,Post-Graduate,Divorced,Not in any Relation,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,0,0,0,0,1,0,1,1,0,Anxiety
+48,Female,High School,Widowed,Broke Up,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,0,0,0,0,1,0,1,0,1,Anxiety
+43,Male,Graduate,Married,In Relation,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,2,2,2,2,1,1,1,0,1,Stress
+39,Female,High School,Single,In Relation,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,4,4,4,4,1,1,1,1,1,Normal
+47,Female,High School,Live in,In Relation,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,4,4,4,4,1,0,1,1,0,Anxiety
+40,Male,High School,Live in,Not in any Relation,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,1,1,1,1,1,1,1,1,1,Normal
+20,Female,Graduate,Single,Broke Up,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,1,1,1,1,0,1,1,1,1,Depression
+26,Male,High School,Widowed,Broke Up,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,3,3,3,0,1,0,1,0,Anxiety
+44,Female,Graduate,Divorced,Not in any Relation,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,0,0,0,1,0,1,0,1,Anxiety and Stress
+24,Female,Post-Graduate,Married,In Relation,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,4,4,4,4,0,1,1,1,1,Stress
+16,Female,High School,Married,In Relation,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,4,4,4,4,0,1,1,0,1,Anxiety
+35,Female,College,Live in,In Relation,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,1,1,1,1,1,1,1,1,1,Depression
+17,Male,Graduate,Divorced,Not in any Relation,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,4,4,4,4,1,1,1,1,0,Normal
+20,Female,Graduate,Widowed,In Relation,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,2,2,2,2,1,1,1,1,1,Normal
+46,Male,College,Widowed,Not in any Relation,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,1,1,1,1,1,1,1,1,Normal
+38,Female,High School,Widowed,In Relation,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,3,3,3,1,1,0,1,0,Anxiety
+22,Male,Post-Graduate,Live in,Not in any Relation,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,0,0,0,0,1,0,1,0,1,Anxiety
+27,Male,Graduate,Divorced,Broke Up,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,4,4,4,4,1,1,0,1,0,Anxiety
+20,Male,College,Widowed,Not in any Relation,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,3,3,3,3,0,1,1,0,1,Anxiety
+27,Female,College,Single,Broke Up,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,4,4,4,4,0,1,0,1,0,Anxiety
+25,Female,Post-Graduate,Live in,Not in any Relation,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,0,0,0,0,0,1,0,1,0,Anxiety
+29,Female,Post-Graduate,Widowed,Not in any Relation,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,1,1,1,1,1,1,0,1,1,Normal
+38,Male,College,Divorced,Broke Up,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,2,2,2,2,1,0,1,1,1,Normal
+46,Male,High School,Married,Broke Up,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,1,1,1,1,1,1,0,1,1,Normal
+28,Male,Graduate,Married,Broke Up,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,4,4,4,4,1,0,1,0,1,Anxiety and Depression
+28,Male,College,Live in,Not in any Relation,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,1,1,1,1,1,1,1,1,1,Depression
+22,Male,High School,Widowed,In Relation,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,4,4,4,4,1,1,1,1,0,Normal
+17,Male,Post-Graduate,Single,Not in any Relation,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,1,1,1,1,1,1,0,1,1,Normal
+20,Female,College,Single,In Relation,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,4,4,4,4,0,1,1,0,1,Anxiety
+19,Male,Graduate,Widowed,In Relation,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,0,0,0,0,0,1,0,1,0,Anxiety
+46,Female,High School,Single,In Relation,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,4,4,4,4,1,1,1,1,1,Depression
+27,Male,Post-Graduate,Married,Broke Up,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,1,1,1,1,1,1,1,1,1,Stress
+25,Female,High School,Married,Not in any Relation,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,4,4,4,4,1,0,1,1,0,Anxiety
+45,Male,Post-Graduate,Widowed,Not in any Relation,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,1,1,1,1,1,1,1,1,0,Normal
+23,Female,College,Divorced,Not in any Relation,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,4,4,4,4,1,0,1,0,1,Anxiety and Stress
+24,Male,Post-Graduate,Widowed,Broke Up,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,4,4,4,4,1,0,1,0,1,Anxiety and Depression
+45,Female,High School,Live in,Not in any Relation,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,1,1,1,1,0,1,1,1,Stress
+44,Female,Post-Graduate,Live in,In Relation,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,0,0,0,0,0,1,0,1,0,Anxiety
+46,Male,High School,Single,In Relation,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,4,4,4,4,1,0,1,1,0,Anxiety
+28,Female,Post-Graduate,Live in,Not in any Relation,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,1,1,1,1,1,1,1,1,Normal
+42,Female,Post-Graduate,Single,Broke Up,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,0,0,0,0,1,0,1,1,0,Anxiety
+28,Female,Post-Graduate,Divorced,Broke Up,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,0,0,0,0,1,0,1,1,0,Anxiety
+19,Male,Graduate,Live in,Not in any Relation,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,4,4,4,4,1,0,1,0,1,Anxiety and Stress
+23,Female,Graduate,Divorced,In Relation,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,4,4,4,4,0,1,0,1,0,Anxiety and Stress
+29,Female,College,Widowed,In Relation,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,2,2,2,2,1,1,0,1,1,Stress
+30,Male,College,Single,Not in any Relation,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,0,0,0,1,0,1,0,1,Anxiety and Depression
+21,Female,Graduate,Live in,In Relation,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,1,1,1,1,1,1,0,1,Normal
+41,Female,Post-Graduate,Single,In Relation,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,4,4,4,4,1,1,1,1,0,Normal
+16,Male,Graduate,Single,In Relation,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,4,4,4,4,0,1,0,1,1,Anxiety
+24,Female,Graduate,Divorced,In Relation,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,0,0,0,1,0,1,0,1,Anxiety and Depression
+32,Female,High School,Live in,Broke Up,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,3,3,3,3,1,0,1,0,1,Anxiety and Stress
+18,Male,Graduate,Married,Broke Up,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,0,0,0,1,0,1,0,1,Anxiety and Stress
+30,Male,College,Widowed,Broke Up,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,4,4,4,4,0,1,1,0,1,Anxiety
+42,Female,College,Single,Not in any Relation,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,4,4,4,4,0,1,1,1,1,Normal
+25,Male,High School,Married,Not in any Relation,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,4,4,4,4,0,1,1,0,1,Anxiety
+16,Female,Post-Graduate,Widowed,Broke Up,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,4,4,4,4,1,0,1,1,0,Anxiety and Stress
+43,Female,College,Live in,In Relation,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,1,1,1,1,1,1,1,1,1,Normal
+49,Female,College,Divorced,Not in any Relation,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,1,1,1,1,1,1,1,1,Normal
+15,Male,Post-Graduate,Live in,In Relation,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,1,1,1,1,1,1,1,1,0,Normal
+16,Female,Post-Graduate,Single,Broke Up,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,1,1,1,1,1,1,1,1,1,Anxiety
+34,Female,Post-Graduate,Widowed,Broke Up,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,1,1,1,1,0,1,1,1,Normal
+44,Female,College,Single,Not in any Relation,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,4,4,4,4,0,1,1,0,1,Anxiety
+46,Male,Graduate,Live in,Not in any Relation,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,4,4,4,4,1,1,1,1,1,Normal
+20,Female,High School,Widowed,Broke Up,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,4,4,4,4,1,1,1,0,1,Normal
+28,Female,Graduate,Live in,Not in any Relation,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,4,4,4,4,1,1,1,1,0,Stress
+47,Male,Graduate,Single,In Relation,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,1,1,1,1,1,1,1,1,0,Normal
+30,Male,Graduate,Divorced,In Relation,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,1,1,1,1,1,1,1,1,1,Stress
+23,Female,College,Single,Not in any Relation,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,1,1,1,1,1,1,1,1,1,Stress
+49,Male,Graduate,Divorced,Not in any Relation,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,3,3,3,3,0,1,0,1,0,Anxiety
+42,Female,Post-Graduate,Widowed,In Relation,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,1,1,1,1,1,1,0,1,1,Normal
+47,Male,High School,Single,Broke Up,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,4,4,4,4,0,1,1,1,1,Depression
+18,Female,College,Married,Broke Up,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,0,0,0,1,0,1,0,1,Anxiety and Depression
+26,Male,High School,Live in,In Relation,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,4,4,4,4,1,0,1,0,1,Anxiety
+24,Female,College,Live in,In Relation,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,1,1,1,1,0,1,1,1,Normal
+26,Male,College,Live in,In Relation,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,4,4,4,4,1,1,0,1,1,Normal
+16,Male,High School,Divorced,In Relation,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,3,3,3,3,0,1,0,1,0,Anxiety
+50,Female,College,Single,Broke Up,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,0,0,0,1,0,1,0,1,Anxiety and Depression
+40,Male,College,Single,Broke Up,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,4,4,4,4,1,1,0,1,0,Anxiety
+43,Female,High School,Single,Not in any Relation,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,3,3,3,3,0,1,1,0,1,Anxiety
+26,Female,Graduate,Widowed,Not in any Relation,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,4,4,4,4,1,0,1,0,1,Anxiety and Depression
+33,Male,Post-Graduate,Live in,Broke Up,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,2,2,2,2,1,0,1,1,1,Normal
+42,Female,Graduate,Live in,Broke Up,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,4,4,4,4,0,1,1,0,1,Anxiety
+24,Male,Post-Graduate,Live in,Broke Up,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,1,1,1,1,1,1,0,1,1,Stress
+37,Male,Graduate,Widowed,Broke Up,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,1,1,1,1,1,1,1,1,1,Stress
+33,Male,Post-Graduate,Single,In Relation,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,4,4,4,4,1,1,1,1,0,Normal
+32,Male,Post-Graduate,Live in,In Relation,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,4,4,4,4,0,1,1,1,1,Stress
+28,Female,Graduate,Divorced,In Relation,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,1,1,1,1,1,1,1,1,1,Normal
+30,Female,Graduate,Married,Not in any Relation,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,4,4,4,4,1,0,1,0,1,Anxiety and Depression
+28,Female,Graduate,Married,In Relation,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,4,4,4,4,1,1,0,1,1,Stress
+45,Female,High School,Live in,In Relation,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,0,0,0,1,0,1,0,1,Anxiety and Stress
+28,Female,Post-Graduate,Widowed,Not in any Relation,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,4,4,4,4,1,0,1,0,1,Depression
+37,Male,Post-Graduate,Single,Not in any Relation,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,1,1,1,1,1,1,1,1,1,Normal
+41,Male,Post-Graduate,Widowed,Broke Up,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,3,3,3,3,0,1,0,1,1,Anxiety
+28,Female,High School,Widowed,Not in any Relation,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,4,4,4,4,1,0,1,1,0,Anxiety
+17,Female,Post-Graduate,Single,In Relation,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,4,4,4,4,1,1,1,1,1,Stress
+48,Male,College,Single,Not in any Relation,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,3,3,3,3,0,1,0,1,0,Anxiety
+15,Female,Graduate,Widowed,In Relation,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,0,0,0,0,1,0,1,0,1,Anxiety
+27,Female,Post-Graduate,Single,In Relation,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,2,2,2,2,1,1,1,1,1,Depression and Stress
+49,Male,Post-Graduate,Divorced,Broke Up,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,3,3,3,3,1,0,1,0,1,Anxiety and Depression
+22,Male,College,Divorced,Broke Up,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,1,1,1,1,1,1,1,1,1,Normal
+21,Female,High School,Single,Broke Up,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,1,1,1,1,1,1,1,1,1,Normal
+38,Female,College,Live in,In Relation,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,4,4,4,4,1,1,1,1,1,Normal
+17,Male,High School,Single,In Relation,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,4,4,4,4,1,1,1,1,1,Normal
+40,Female,High School,Married,In Relation,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,3,3,3,3,1,0,1,0,1,Anxiety and Depression
+39,Female,High School,Married,In Relation,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,0,0,0,0,0,1,0,1,0,Anxiety
+50,Female,College,Married,Broke Up,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,4,4,4,4,0,1,0,1,0,Anxiety
+20,Male,Post-Graduate,Widowed,Broke Up,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,4,4,4,4,1,0,1,1,0,Anxiety
+28,Female,High School,Widowed,In Relation,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,2,2,2,2,1,1,1,1,0,Normal
+49,Female,Graduate,Married,In Relation,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,0,0,0,0,1,0,1,1,0,Depression
+25,Female,Graduate,Live in,Broke Up,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,3,3,3,3,1,0,1,0,1,Anxiety and Stress
+39,Male,Graduate,Married,Broke Up,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,1,1,1,1,1,1,1,1,0,Stress
+25,Male,Graduate,Divorced,Broke Up,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,4,4,4,4,1,0,1,0,1,Anxiety and Depression
+27,Male,Post-Graduate,Live in,In Relation,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,1,1,1,1,1,1,1,1,1,Anxiety
+29,Female,Graduate,Widowed,Not in any Relation,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,1,1,1,1,1,1,1,1,Normal
+18,Female,High School,Live in,In Relation,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,1,1,1,1,1,1,0,1,Depression
+34,Female,Post-Graduate,Single,Broke Up,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,4,4,4,4,1,1,1,1,0,Normal
+33,Female,Post-Graduate,Single,Broke Up,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,4,4,4,4,1,1,1,1,0,Normal
+20,Female,Post-Graduate,Live in,Not in any Relation,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,3,3,3,1,1,0,1,0,Anxiety
+33,Male,Graduate,Live in,Broke Up,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,1,1,1,1,1,1,1,1,1,Normal
+48,Male,College,Single,In Relation,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,4,4,4,4,0,1,1,0,1,Anxiety
+41,Male,Post-Graduate,Divorced,In Relation,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,4,4,4,4,1,1,0,1,0,Anxiety
+31,Female,Post-Graduate,Live in,Broke Up,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,0,0,0,0,0,1,0,1,1,Anxiety
+29,Male,Graduate,Married,In Relation,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,3,3,3,1,0,1,1,0,Anxiety
+27,Female,Graduate,Single,Not in any Relation,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,1,1,1,1,1,1,0,1,Normal
+19,Male,Post-Graduate,Divorced,In Relation,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,1,1,1,1,1,1,1,1,0,Normal
+17,Male,College,Single,In Relation,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,1,1,1,1,1,1,1,1,1,Depression
+47,Female,College,Divorced,Broke Up,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,4,4,4,4,1,0,1,0,1,Anxiety and Stress
+33,Female,Post-Graduate,Single,Not in any Relation,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,4,4,4,4,0,1,0,1,0,Anxiety
+23,Male,High School,Married,Not in any Relation,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,0,0,0,0,0,1,0,1,0,Anxiety
+38,Male,Post-Graduate,Single,Not in any Relation,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,1,1,1,1,1,1,1,1,1,Depression
+50,Male,Post-Graduate,Married,Broke Up,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,4,4,4,4,1,0,1,1,1,Normal
+17,Female,Post-Graduate,Live in,Broke Up,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,4,4,4,4,1,0,1,0,1,Anxiety and Stress
+25,Female,College,Single,Not in any Relation,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,0,0,0,0,0,1,0,1,0,Anxiety
+28,Female,Graduate,Widowed,Not in any Relation,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,0,0,0,0,1,1,0,1,0,Anxiety
+15,Female,High School,Widowed,Not in any Relation,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,3,3,3,0,1,0,1,0,Anxiety
+30,Male,Graduate,Divorced,In Relation,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,3,3,3,3,0,1,1,0,1,Anxiety
+25,Male,Graduate,Live in,Not in any Relation,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,2,2,2,2,1,1,1,1,0,Normal
+28,Male,College,Single,In Relation,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,4,4,4,4,0,1,0,1,0,Anxiety
+34,Male,High School,Widowed,In Relation,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,0,0,0,0,1,0,1,0,1,Depression
+19,Female,High School,Single,Broke Up,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,3,3,3,3,0,1,0,1,0,Anxiety
+37,Male,High School,Single,Not in any Relation,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,2,2,2,2,1,1,1,1,0,Stress
+17,Male,High School,Live in,In Relation,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,1,1,1,1,1,1,1,1,1,Normal
+18,Male,High School,Married,Broke Up,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,1,1,1,1,1,1,1,1,1,Normal
+35,Female,Post-Graduate,Divorced,Broke Up,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,0,0,0,1,0,1,0,1,Anxiety and Stress
+31,Male,Post-Graduate,Live in,In Relation,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,4,4,4,4,1,1,0,1,0,Anxiety
+37,Female,Post-Graduate,Single,In Relation,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,4,4,4,4,1,1,1,1,0,Normal
+32,Male,Post-Graduate,Widowed,In Relation,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,2,2,2,2,1,1,1,1,1,Stress
+44,Male,Post-Graduate,Divorced,In Relation,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,0,0,0,0,1,0,1,0,1,Anxiety
+19,Female,Post-Graduate,Widowed,Broke Up,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,0,0,0,0,1,0,1,0,1,Anxiety
+17,Male,High School,Divorced,Not in any Relation,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,1,1,1,1,0,1,1,1,1,Depression and Stress
+29,Female,College,Widowed,In Relation,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,1,1,1,1,0,1,1,1,1,Normal
+28,Male,High School,Single,Broke Up,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,1,1,1,1,1,1,1,1,1,Normal
+20,Male,Post-Graduate,Single,Not in any Relation,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,4,4,4,4,1,1,0,1,1,Normal
+31,Female,Graduate,Live in,Not in any Relation,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,4,4,4,4,1,0,1,1,0,Anxiety
+22,Female,High School,Married,Not in any Relation,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,1,1,1,1,0,1,1,1,Normal
+41,Male,Graduate,Married,Broke Up,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,3,3,3,3,0,1,1,0,1,Anxiety
+31,Male,High School,Single,Broke Up,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,4,4,4,4,0,1,0,1,0,Anxiety
+18,Female,College,Divorced,Broke Up,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,2,2,2,2,1,1,1,0,1,Depression
+39,Male,High School,Married,Not in any Relation,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,3,3,3,0,1,0,1,0,Anxiety
+21,Female,Graduate,Live in,In Relation,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,4,4,4,4,0,1,0,1,0,Anxiety
+22,Male,College,Single,Not in any Relation,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,4,4,4,4,0,1,0,1,0,Anxiety
+40,Male,College,Widowed,Not in any Relation,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,1,1,1,1,1,1,1,1,1,Normal
+43,Female,Post-Graduate,Live in,In Relation,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,3,3,3,1,0,1,1,0,Anxiety
+38,Female,Graduate,Married,Broke Up,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,3,3,3,3,1,0,1,0,1,Anxiety and Stress
+16,Male,Graduate,Married,Broke Up,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,0,0,0,0,0,1,0,1,0,Anxiety
+35,Female,High School,Widowed,Not in any Relation,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,4,4,4,4,1,0,1,0,1,Anxiety and Depression
+46,Female,College,Widowed,In Relation,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,4,4,4,4,1,0,1,1,0,Anxiety
+19,Female,High School,Divorced,Not in any Relation,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,0,0,0,1,0,1,0,1,Anxiety and Stress
+41,Female,High School,Married,Broke Up,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,4,4,4,4,1,0,1,0,1,Anxiety and Depression
+21,Female,Graduate,Widowed,In Relation,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,3,3,3,3,0,1,0,1,0,Anxiety
+16,Male,High School,Live in,Not in any Relation,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,4,4,4,4,1,0,1,0,1,Anxiety and Depression
+19,Female,Post-Graduate,Married,Broke Up,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,4,4,4,4,1,1,1,0,1,Depression and Stress
+42,Female,Post-Graduate,Widowed,Not in any Relation,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,1,1,1,1,1,1,1,1,1,Normal
+15,Male,Post-Graduate,Widowed,Broke Up,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,2,2,2,2,1,1,1,1,0,Depression and Stress
+24,Female,College,Widowed,Not in any Relation,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,1,1,1,1,1,1,0,1,Normal
+34,Male,High School,Single,In Relation,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,4,4,4,4,1,1,1,1,1,Normal
+32,Female,Post-Graduate,Divorced,Not in any Relation,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,3,3,3,3,0,1,1,0,1,Anxiety
+31,Female,Post-Graduate,Divorced,Broke Up,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,0,0,0,1,0,1,0,1,Anxiety and Depression
+24,Male,High School,Single,Broke Up,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,4,4,4,4,0,1,0,1,1,Anxiety
+17,Male,High School,Married,In Relation,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,1,1,1,1,1,1,0,1,Normal
+49,Female,High School,Widowed,Not in any Relation,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,3,3,3,3,1,0,1,0,1,Anxiety and Depression
+16,Male,Post-Graduate,Divorced,Broke Up,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,4,4,4,4,0,1,1,0,1,Anxiety
+37,Female,High School,Live in,In Relation,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,1,1,1,1,1,1,0,1,1,Depression and Stress
+16,Female,High School,Single,In Relation,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,0,0,0,1,0,1,0,1,Anxiety and Stress
+29,Female,High School,Live in,In Relation,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,1,1,1,1,1,1,1,1,0,Normal
+48,Male,College,Divorced,In Relation,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,0,0,0,0,1,0,1,1,0,Anxiety
+47,Female,High School,Married,Broke Up,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,2,2,2,2,1,1,1,1,1,Anxiety and Stress
+43,Female,High School,Widowed,Not in any Relation,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,2,2,2,2,1,1,1,1,1,Depression
+40,Female,Post-Graduate,Single,Not in any Relation,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,4,4,4,4,0,1,1,1,1,Stress
+24,Female,College,Single,In Relation,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,4,4,4,4,1,0,1,1,0,Anxiety
+40,Male,High School,Divorced,Broke Up,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,1,1,1,1,1,1,1,1,1,Normal
+24,Male,College,Single,In Relation,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,4,4,4,4,0,1,1,1,1,Normal
+19,Male,College,Divorced,In Relation,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,4,4,4,4,1,1,1,1,0,Normal
+40,Female,Post-Graduate,Married,Not in any Relation,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,2,2,2,2,1,1,1,1,1,Depression
+21,Male,College,Married,Not in any Relation,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,0,0,0,0,0,1,0,1,1,Anxiety
+18,Male,Post-Graduate,Live in,Not in any Relation,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,2,2,2,2,1,1,0,1,1,Normal
+16,Male,Post-Graduate,Single,Not in any Relation,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,4,4,4,4,0,1,0,1,1,Anxiety
+38,Female,Post-Graduate,Single,In Relation,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,1,1,1,1,1,1,1,1,1,Depression
+43,Male,Graduate,Live in,Not in any Relation,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,4,4,4,4,1,1,0,1,1,Normal
+47,Male,Post-Graduate,Live in,In Relation,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,4,4,4,4,0,1,1,0,1,Anxiety
+17,Female,High School,Single,In Relation,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,1,1,1,1,1,1,1,1,1,Anxiety
+21,Male,Post-Graduate,Widowed,Broke Up,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,2,2,2,2,1,1,1,1,1,Normal
+38,Female,College,Widowed,In Relation,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,2,2,2,2,1,1,1,1,1,Depression
+41,Male,Post-Graduate,Widowed,Broke Up,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,1,1,1,1,1,1,1,1,1,Depression and Stress
+36,Female,High School,Divorced,In Relation,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,1,1,1,1,1,1,0,1,Normal
+32,Male,High School,Single,Broke Up,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,4,4,4,4,1,0,1,1,1,Normal
+27,Male,College,Divorced,Broke Up,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,4,4,4,4,0,1,1,1,1,Depression
+48,Female,High School,Widowed,Broke Up,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,4,4,4,4,1,1,1,1,0,Anxiety
+44,Female,Post-Graduate,Widowed,Broke Up,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,1,1,1,1,1,1,1,1,1,Stress
+43,Male,Post-Graduate,Single,In Relation,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,4,4,4,4,1,0,1,0,1,Anxiety
+39,Female,High School,Widowed,Broke Up,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,4,4,4,4,1,0,1,0,1,Anxiety and Depression
+32,Female,Graduate,Divorced,In Relation,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,4,4,4,4,0,1,0,1,0,Anxiety
+20,Female,Graduate,Divorced,Broke Up,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,4,4,4,4,1,0,1,0,1,Anxiety and Depression
+17,Female,College,Married,Broke Up,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,3,3,3,3,1,0,1,0,1,Anxiety and Stress
+40,Male,College,Widowed,Broke Up,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,4,4,4,4,0,1,0,1,1,Anxiety
+18,Male,Post-Graduate,Married,Not in any Relation,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,4,4,4,4,1,0,1,0,1,Anxiety and Stress
+36,Female,Graduate,Widowed,Not in any Relation,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,1,1,1,1,1,1,1,1,1,Normal
+36,Male,High School,Divorced,Not in any Relation,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,4,4,4,4,1,0,1,1,1,Normal
+17,Female,Post-Graduate,Single,Not in any Relation,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,4,4,4,4,1,1,1,1,0,Anxiety and Stress
+41,Female,College,Single,In Relation,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,4,4,4,4,1,0,1,0,1,Anxiety and Depression
+43,Female,High School,Married,Broke Up,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,0,0,0,1,0,1,0,1,Anxiety and Stress
+31,Male,Post-Graduate,Single,Not in any Relation,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,1,1,1,1,1,1,0,1,Normal
+35,Male,Graduate,Married,In Relation,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,1,1,1,1,1,1,1,1,0,Stress
+40,Female,Post-Graduate,Divorced,Broke Up,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,1,1,1,1,1,1,0,1,1,Stress
+24,Male,Post-Graduate,Married,Not in any Relation,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,3,3,3,3,1,0,1,0,1,Anxiety
+15,Male,College,Live in,Broke Up,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,4,4,4,4,1,0,1,0,1,Anxiety and Depression
+26,Female,Post-Graduate,Widowed,Broke Up,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,3,3,3,3,0,1,1,0,1,Anxiety
+44,Female,Post-Graduate,Single,Not in any Relation,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,2,2,2,2,1,1,1,1,1,Normal
+49,Male,Graduate,Single,In Relation,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,3,3,3,3,0,1,1,0,1,Anxiety
+23,Male,Post-Graduate,Widowed,Not in any Relation,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,2,2,2,2,1,1,1,1,1,Normal
+49,Female,High School,Married,In Relation,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,1,1,1,1,1,1,1,1,1,Depression and Stress
+46,Female,Graduate,Married,In Relation,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,3,3,3,3,0,1,0,1,0,Anxiety
+37,Female,College,Widowed,In Relation,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,1,1,1,1,1,1,1,1,0,Normal
+24,Female,High School,Single,In Relation,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,0,0,0,0,1,1,0,1,0,Anxiety
+18,Female,High School,Widowed,Not in any Relation,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,2,2,2,2,1,1,1,1,1,Depression
+27,Female,College,Single,Broke Up,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,4,4,4,4,0,1,0,1,1,Anxiety
+39,Female,College,Live in,Broke Up,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,2,2,2,2,1,0,1,1,1,Normal
+28,Female,High School,Live in,Broke Up,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,4,4,4,4,1,1,1,1,1,Depression
+37,Male,Post-Graduate,Live in,Broke Up,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,1,1,1,1,1,1,1,1,Stress
+21,Male,Graduate,Live in,Broke Up,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,3,3,3,3,1,0,1,0,1,Anxiety and Stress
+16,Male,Post-Graduate,Married,Broke Up,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,1,1,1,1,1,1,1,1,0,Normal
+37,Female,Post-Graduate,Married,In Relation,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,3,3,3,1,1,0,1,0,Anxiety
+33,Female,College,Live in,In Relation,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,2,2,2,2,1,1,0,1,1,Stress
+49,Female,College,Divorced,In Relation,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,4,4,4,4,1,0,1,1,1,Normal
+29,Female,Post-Graduate,Live in,Not in any Relation,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,2,2,2,2,1,1,1,1,1,Normal
+42,Male,Graduate,Widowed,Broke Up,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,1,1,1,1,1,1,1,1,Depression
+37,Male,College,Live in,Not in any Relation,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,1,1,1,1,1,1,0,1,1,Normal
+29,Female,College,Widowed,In Relation,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,4,4,4,4,0,1,0,1,0,Anxiety
+45,Female,College,Divorced,Not in any Relation,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,2,2,2,2,1,1,1,1,1,Normal
+28,Female,College,Divorced,Not in any Relation,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,4,4,4,4,1,0,1,1,0,Anxiety
+45,Male,College,Widowed,Not in any Relation,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,3,3,3,3,1,0,1,0,1,Anxiety and Depression
+26,Male,College,Married,Broke Up,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,3,3,3,3,1,0,1,0,1,Anxiety and Depression
+45,Female,Graduate,Live in,Not in any Relation,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,0,0,0,0,1,1,0,1,Anxiety
+49,Female,High School,Single,In Relation,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,1,1,1,1,1,1,1,1,1,Normal
+28,Female,High School,Widowed,Broke Up,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,4,4,4,4,1,0,1,1,1,Normal
+45,Female,Graduate,Single,Broke Up,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,4,4,4,4,0,1,0,1,0,Anxiety
+17,Male,High School,Widowed,Not in any Relation,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,4,4,4,4,1,0,1,0,1,Anxiety and Stress
+34,Female,High School,Live in,Not in any Relation,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,1,1,1,1,0,1,1,1,1,Normal
+41,Female,High School,Divorced,Broke Up,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,4,4,4,4,0,1,0,1,0,Anxiety
+33,Female,College,Widowed,Not in any Relation,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,2,2,2,2,1,1,1,1,1,Normal
+40,Male,Graduate,Live in,In Relation,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,2,2,2,2,1,0,1,1,1,Normal
+27,Female,College,Single,Not in any Relation,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,2,2,2,2,1,1,1,1,1,Normal
+44,Female,High School,Married,Broke Up,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,1,1,1,1,1,1,1,1,1,Normal
+37,Male,Graduate,Live in,Not in any Relation,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,1,1,1,1,1,1,1,1,1,Normal
+34,Male,Post-Graduate,Widowed,Broke Up,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,4,4,4,4,0,1,0,1,0,Anxiety
+48,Female,Graduate,Single,In Relation,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,1,1,1,1,1,1,0,1,Normal
+19,Female,Post-Graduate,Single,Not in any Relation,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,4,4,4,4,1,0,1,0,1,Anxiety and Stress
+45,Male,Post-Graduate,Live in,Not in any Relation,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,2,2,2,2,1,1,1,0,1,Normal
+19,Male,College,Single,Broke Up,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,1,1,1,1,0,1,1,1,1,Normal
+20,Female,Graduate,Married,In Relation,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,4,4,4,4,1,0,1,0,1,Anxiety
+26,Female,Post-Graduate,Divorced,Broke Up,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,1,1,1,1,0,1,1,1,1,Normal
+33,Female,High School,Live in,Not in any Relation,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,2,2,2,2,1,1,1,0,1,Normal
+21,Male,Graduate,Widowed,In Relation,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,3,3,3,1,1,0,1,0,Anxiety
+36,Female,College,Divorced,Not in any Relation,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,4,4,4,4,0,1,0,1,0,Anxiety
+26,Female,Post-Graduate,Widowed,Not in any Relation,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,4,4,4,4,1,1,1,1,1,Stress
+21,Female,Graduate,Single,In Relation,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,4,4,4,4,1,0,1,1,1,Normal
+42,Female,High School,Married,In Relation,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,1,1,1,1,1,1,1,1,1,Depression and Stress
+31,Female,High School,Widowed,In Relation,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,4,4,4,4,0,1,1,0,1,Anxiety
+36,Female,Post-Graduate,Widowed,Not in any Relation,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,4,4,4,4,0,1,1,0,1,Anxiety
+23,Male,Graduate,Live in,Not in any Relation,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,1,1,1,1,1,1,1,1,Normal
+34,Male,Post-Graduate,Widowed,Broke Up,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,1,1,1,1,1,1,1,1,1,Depression and Stress
+18,Male,Graduate,Divorced,In Relation,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,3,3,3,1,0,1,1,0,Anxiety
+33,Male,Graduate,Divorced,Not in any Relation,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,3,3,3,3,1,0,1,0,1,Anxiety
+26,Female,High School,Divorced,In Relation,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,4,4,4,4,1,1,0,1,0,Anxiety
+29,Male,High School,Married,Not in any Relation,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,3,3,3,1,0,1,1,0,Anxiety
+27,Female,Post-Graduate,Divorced,In Relation,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,4,4,4,4,1,1,0,1,1,Normal
+31,Male,Graduate,Divorced,Not in any Relation,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,1,1,1,1,1,1,1,1,1,Stress
+26,Female,College,Single,Broke Up,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,1,1,1,1,1,1,1,1,1,Normal
+32,Male,High School,Divorced,Broke Up,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,0,0,0,0,0,1,0,1,0,Anxiety
+36,Male,Post-Graduate,Divorced,In Relation,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,4,4,4,4,0,1,1,0,1,Anxiety
+49,Male,Graduate,Live in,Not in any Relation,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,1,1,1,1,1,1,1,1,1,Depression and Stress
+23,Male,Post-Graduate,Divorced,Not in any Relation,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,4,4,4,4,0,1,1,0,1,Anxiety
+30,Male,Graduate,Live in,Broke Up,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,4,4,4,4,0,1,1,1,1,Normal
+24,Male,Post-Graduate,Married,In Relation,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,1,1,1,1,0,1,1,1,Normal
+45,Female,Graduate,Live in,In Relation,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,4,4,4,4,1,0,1,0,1,Anxiety and Depression
+42,Male,Graduate,Widowed,Not in any Relation,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,4,4,4,4,0,1,0,1,0,Anxiety
+26,Male,Graduate,Live in,In Relation,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,4,4,4,4,0,1,1,0,1,Anxiety
+48,Male,Graduate,Single,Broke Up,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,1,1,1,1,1,1,1,1,1,Normal
+24,Male,Graduate,Single,Not in any Relation,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,1,1,1,1,0,1,1,1,Depression and Stress
+31,Female,Post-Graduate,Married,In Relation,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,0,0,0,0,1,1,0,1,Anxiety
+28,Male,Post-Graduate,Widowed,Broke Up,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,4,4,4,4,1,0,1,0,1,Anxiety and Depression
+47,Male,Post-Graduate,Widowed,Not in any Relation,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,4,4,4,4,1,1,1,1,1,Anxiety
+19,Female,Post-Graduate,Divorced,In Relation,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,3,3,3,1,1,0,1,0,Anxiety
+27,Male,High School,Live in,Not in any Relation,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,3,3,3,3,0,1,1,0,1,Anxiety
+41,Male,High School,Single,In Relation,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,2,2,2,2,1,1,1,1,1,Normal
+26,Male,Post-Graduate,Married,In Relation,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,3,3,3,3,0,1,1,0,1,Anxiety
+31,Female,College,Single,Broke Up,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,1,1,1,1,1,1,1,1,1,Normal
+28,Male,Graduate,Single,Broke Up,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,4,4,4,4,1,0,1,0,1,Anxiety and Stress
+33,Male,Graduate,Divorced,In Relation,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,1,1,1,1,1,1,1,1,1,Normal
+30,Female,College,Live in,Broke Up,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,2,2,2,2,1,1,1,1,1,Normal
+32,Female,Graduate,Divorced,Broke Up,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,3,3,3,1,0,1,1,0,Anxiety
+20,Female,High School,Live in,In Relation,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,4,4,4,4,0,1,1,0,1,Anxiety
+32,Female,Graduate,Live in,Not in any Relation,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,4,4,4,4,0,1,0,1,1,Anxiety
+35,Male,High School,Married,Broke Up,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,3,3,3,0,1,0,1,0,Depression
+35,Female,High School,Single,Broke Up,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,1,1,1,1,1,1,1,1,1,Normal
+29,Male,College,Widowed,Not in any Relation,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,1,1,1,1,1,1,1,1,Normal
+20,Male,Post-Graduate,Widowed,In Relation,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,4,4,4,4,1,0,1,1,1,Normal
+46,Male,Post-Graduate,Single,Broke Up,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,2,2,2,2,1,1,0,1,1,Normal
+19,Female,Graduate,Single,Not in any Relation,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,4,4,4,4,1,0,1,1,0,Depression
+41,Female,College,Widowed,Broke Up,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,4,4,4,4,1,1,0,1,1,Normal
+18,Female,Post-Graduate,Live in,Not in any Relation,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,1,1,1,1,1,1,1,1,1,Stress
+45,Female,Graduate,Married,Broke Up,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,4,4,4,4,1,1,1,1,1,Normal
+45,Male,College,Live in,Broke Up,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,1,1,1,1,1,1,1,1,Normal
+16,Male,High School,Widowed,Broke Up,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,4,4,4,4,0,1,0,1,0,Anxiety
+46,Female,Graduate,Widowed,In Relation,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,0,0,0,1,0,1,0,1,Anxiety and Stress
+23,Male,Post-Graduate,Widowed,Broke Up,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,4,4,4,4,1,1,1,1,1,Normal
+41,Male,High School,Live in,Broke Up,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,4,4,4,4,0,1,0,1,1,Anxiety
+45,Female,High School,Divorced,Not in any Relation,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,1,1,1,1,1,1,1,1,1,Stress
+31,Male,Post-Graduate,Married,In Relation,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,4,4,4,4,1,1,1,1,1,Depression and Stress
+23,Female,Graduate,Single,Not in any Relation,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,0,0,0,0,1,1,0,1,Anxiety
+43,Male,Post-Graduate,Single,Not in any Relation,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,4,4,4,4,1,0,1,0,1,Anxiety and Stress
+35,Female,College,Married,Broke Up,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,2,2,2,2,1,1,1,1,1,Normal
+15,Female,Post-Graduate,Married,Not in any Relation,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,4,4,4,4,0,1,1,0,1,Anxiety
+20,Male,Post-Graduate,Divorced,Broke Up,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,3,3,3,0,1,0,1,0,Anxiety
+27,Male,Post-Graduate,Live in,Not in any Relation,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,2,2,2,2,1,1,1,1,1,Normal
+44,Female,Post-Graduate,Single,Not in any Relation,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,1,1,1,1,1,1,1,1,Stress
+26,Male,High School,Divorced,Broke Up,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,1,1,1,1,1,1,1,1,0,Normal
+17,Male,College,Live in,Broke Up,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,2,2,2,2,1,1,0,1,1,Stress
+17,Female,Post-Graduate,Single,Broke Up,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,4,4,4,4,0,1,1,0,1,Anxiety
+28,Male,Graduate,Single,Broke Up,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,1,1,1,1,0,1,1,1,1,Normal
+37,Female,Graduate,Single,Not in any Relation,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,3,3,3,3,1,0,1,0,1,Anxiety
+41,Male,Graduate,Married,In Relation,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,1,1,1,1,1,1,1,1,1,Normal
+33,Female,High School,Live in,In Relation,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,2,2,2,2,1,1,1,1,1,Normal
+34,Female,College,Live in,Broke Up,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,2,2,2,2,1,0,1,1,1,Normal
+28,Female,Post-Graduate,Widowed,Not in any Relation,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,1,1,1,1,0,1,1,1,1,Normal
+20,Male,Graduate,Divorced,In Relation,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,2,2,2,2,0,1,1,1,1,Normal
+33,Female,Graduate,Married,Not in any Relation,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,4,4,4,4,0,1,0,1,0,Anxiety
+39,Male,Post-Graduate,Single,Broke Up,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,1,1,1,1,1,1,1,1,Stress
+28,Male,Graduate,Widowed,In Relation,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,1,1,1,1,1,1,1,1,1,Stress
+50,Male,Post-Graduate,Widowed,Not in any Relation,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,1,1,1,1,1,1,1,1,1,Normal
+28,Male,Post-Graduate,Widowed,Not in any Relation,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,0,0,0,0,1,1,0,1,0,Anxiety
+37,Male,Graduate,Single,Broke Up,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,0,0,0,0,0,1,0,1,0,Anxiety
+32,Female,High School,Married,Broke Up,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,4,4,4,4,1,1,0,1,0,Anxiety
+39,Male,Graduate,Divorced,Broke Up,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,0,0,0,0,0,1,0,1,0,Anxiety
+26,Male,High School,Married,Broke Up,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,4,4,4,4,1,1,0,1,1,Normal
+49,Male,Graduate,Divorced,Broke Up,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,1,1,1,1,1,1,1,1,1,Normal
+27,Male,Post-Graduate,Single,In Relation,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,0,0,0,0,1,1,0,1,0,Anxiety
+33,Male,College,Live in,In Relation,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,1,1,1,1,0,1,1,1,1,Normal
+46,Male,Post-Graduate,Widowed,In Relation,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,4,4,4,4,0,1,0,1,0,Anxiety
+22,Female,Graduate,Live in,In Relation,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,1,1,1,1,1,1,1,1,0,Stress
+40,Female,College,Live in,In Relation,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,3,3,3,0,1,0,1,0,Anxiety
+50,Male,Graduate,Divorced,In Relation,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,0,0,0,0,0,1,0,1,0,Anxiety
+21,Male,Post-Graduate,Married,In Relation,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,4,4,4,4,0,1,0,1,0,Anxiety
+24,Male,High School,Married,In Relation,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,0,0,0,0,1,0,1,1,0,Anxiety
+21,Female,College,Live in,In Relation,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,4,4,4,4,0,1,0,1,1,Anxiety
+39,Female,Post-Graduate,Widowed,Not in any Relation,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,4,4,4,4,0,1,0,1,0,Anxiety
+37,Male,College,Single,Not in any Relation,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,2,2,2,2,0,1,1,1,1,Normal
+31,Male,College,Married,Broke Up,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,1,1,1,1,0,1,1,1,Depression
+24,Female,Graduate,Married,Not in any Relation,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,4,4,4,4,1,1,1,1,1,Normal
+24,Male,Graduate,Live in,Not in any Relation,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,0,0,0,0,0,1,0,1,1,Anxiety
+34,Female,College,Divorced,Not in any Relation,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,1,1,1,1,1,1,1,1,1,Normal
+49,Female,Post-Graduate,Divorced,Not in any Relation,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,3,3,3,1,1,0,1,0,Anxiety
+50,Male,College,Divorced,Broke Up,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,1,1,1,1,1,1,0,1,Stress
+30,Female,High School,Widowed,In Relation,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,2,2,2,2,0,1,1,1,1,Stress
+37,Female,Graduate,Single,In Relation,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,2,2,2,2,1,1,1,1,1,Normal
+23,Male,Post-Graduate,Widowed,In Relation,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,4,4,4,4,1,1,1,1,1,Normal
+26,Female,High School,Married,Not in any Relation,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,1,1,1,1,1,1,1,1,1,Normal
+28,Male,Graduate,Live in,In Relation,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,3,3,3,3,1,0,1,0,1,Anxiety
+26,Male,Graduate,Single,In Relation,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,4,4,4,4,0,1,0,1,0,Anxiety
+38,Female,College,Divorced,In Relation,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,1,1,1,1,0,1,1,1,1,Stress
+16,Male,Post-Graduate,Live in,Broke Up,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,2,2,2,2,1,1,1,1,1,Normal
+19,Female,College,Single,Broke Up,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,4,4,4,4,1,0,1,0,1,Anxiety and Depression
+40,Male,High School,Live in,Broke Up,0,3,1,0,1,0,0,1,0,0,3,1,0,1,0,0,1,0,0,3,1,0,4,4,4,4,1,0,1,1,1,Normal
+30,Male,College,Live in,In Relation,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,3,3,3,3,0,1,0,1,0,Anxiety
+45,Female,Post-Graduate,Live in,In Relation,3,1,2,0,3,0,1,3,0,3,1,2,0,3,0,1,3,0,3,1,2,0,4,4,4,4,0,1,0,1,0,Anxiety
